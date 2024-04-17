@@ -1,4 +1,5 @@
 - Logseq is a privacy-focused, open-source platform for knowledge management and networked note-taking. It allows users to take notes, organize thoughts, and manage tasks using a hierarchical and interconnected structure, which enables the creation of rich, interlinked networks of information. Logseq supports both plain text Markdown and Org-mode formats, making it versatile and compatible with various workflows.
+  title:: Logseq
 - Advantages of Logseq and other tools for networked note-taking:
 	- **bidirectional linking**: Logseq enables the creation of bidirectional links between notes, fostering an interconnected web of ideas and concepts. This feature helps users establish relationships between different pieces of information and provides an intuitive way to navigate through related content.
 	- **graph view**: Logseq offers a visual representation of the relationships between notes in the form of a graph view. This allows users to quickly identify connections and clusters of related content, making it easier to explore and understand complex networks of ideas.
