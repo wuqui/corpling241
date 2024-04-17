@@ -1,3 +1,0 @@
-- parts
-	- [[Präsentation]]
-	- [[Hausarbeit]]

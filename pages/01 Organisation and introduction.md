@@ -9,7 +9,6 @@ tags:: session
 	  collapsed:: true
 		- registered students
 		  collapsed:: true
-			- Modulprüfung
 			- 3 or 6 ECTS?
 		- waiting list
 		- open issues?

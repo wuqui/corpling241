@@ -16,9 +16,3 @@
 			- [[Thesenpapier]]
 		- 6 ECTS
 			- [[Hausarbeit]]
-		- [Modulprüfung]([[Modulprüfung]])
-			- Übung
-				- assessment takes place in the Seminar
-			- Seminar
-				- [[Präsentation]]
-				- [[Hausarbeit]]

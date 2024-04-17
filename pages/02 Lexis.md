@@ -4,7 +4,6 @@ tags:: session
   collapsed:: true
 	- Who’s here?
 	- Is everyone still planning on getting credits in this course?
-	- Modulprüfung
 - background on [[lexis]] / [[lexical innovation]]
 	- cultural and linguistic innovation
 	  collapsed:: true
