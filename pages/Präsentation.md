@@ -1,0 +1,20 @@
+- [[deadline]]
+	- [[Mon, 21.08.2023]]
+- contents
+	- work-in-progress state of your research project
+	- (preliminary) results and findings
+	- stick to the term paper structure
+	  collapsed:: true
+		- {{embed ((64b64be4-0121-44a0-ba42-f61cd09ae5dc))}}
+- format
+	- length: 10 min
+	- medium
+		- slides
+		- audio
+		- optional: video
+- submission
+	- via email to [q.wuerschinger@lmu.de](mailto:q.wuerschinger@lmu.de)
+	- include slides in PDF format
+- tools for recording, e.g.
+	- [Microsoft Powerpoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+	- [OBS Studio](https://obsproject.com/)
