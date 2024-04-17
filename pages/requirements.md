@@ -2,7 +2,7 @@
   id:: 646c7ffd-9838-4fd4-874f-d582f23fec97
 	- $\leq$ 2 absences
 	- **active** participation
-	- BYOD: bring your own device (bigger than phone, ideally laptop)
+	- BYOD: bring your own device (ideally laptop)
 	- some preparatory reading/analyses
 - assessment
 	- requirements depend on

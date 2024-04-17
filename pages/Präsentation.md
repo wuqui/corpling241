@@ -1,5 +1,5 @@
 - [[deadline]]
-	- [[Mon, 21.08.2023]]
+	- TBA
 - contents
 	- work-in-progress state of your research project
 	- (preliminary) results and findings
