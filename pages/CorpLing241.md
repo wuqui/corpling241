@@ -1,6 +1,6 @@
 id:: 643e395d-946e-4a95-aabb-1d5b22ff438b
 > Seminar *Corpus linguistics*
-Summer semester 2024
+Summer Semester 2024
 Quirin Würschinger, LMU Munich
 
 - **course materials**
