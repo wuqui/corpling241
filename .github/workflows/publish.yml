@@ -12,7 +12,7 @@ jobs:
         with:
           output-directory: docs
       - name: Add a nojekyll file # to make sure asset paths are correctly identified
-        run: touch $GITHUB_WORKSPACE/www/.nojekyll
+        run: touch $GITHUB_WORKSPACE/docs/.nojekyll
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
