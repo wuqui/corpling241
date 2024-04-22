@@ -176,20 +176,26 @@
 					- [Mendeley](https://www.mendeley.com/)
 	- structure
 	  id:: 64b64be4-0121-44a0-ba42-f61cd09ae5dc
-	  collapsed:: true
 		- Introduction
+		  collapsed:: true
 			- This section should provide an overview of the topic, the context, and the relevance of the research. It should also include the research question or hypothesis, and a brief summary of what the paper will cover.
 		- Theoretical Background
+		  collapsed:: true
 			- This section should provide a detailed review of the existing literature relevant to your research question. It should highlight the theories and findings of previous studies, and how they relate to your own research. This section should also define any key terms and concepts.
 		- Data
+		  collapsed:: true
 			- This section should describe the data that you will be analyzing in your study. This could include the source of the data, the criteria for selection, and any relevant characteristics of the data. In a corpus linguistic paper, this would typically involve describing the corpus that you are using.
 		- Method
+		  collapsed:: true
 			- This section should describe the methods you used to analyze your data. This should include any specific techniques or procedures, as well as any software or tools used. In a corpus linguistic paper, this might involve describing how you used a particular software tool to analyze the frequency and distribution of certain linguistic features in your corpus.
 		- Results
+		  collapsed:: true
 			- This section should present the findings of your analysis. It should be clear and concise, and use tables, graphs, or other visual aids where appropriate. The results should be presented in a way that directly addresses your research question or hypothesis.
 		- Discussion
+		  collapsed:: true
 			- This section should interpret the results in the context of your research question and the existing literature. It should discuss whether the results support your hypothesis, and what implications they have for the field of linguistics. This section may also identify any limitations of your study, and suggest areas for future research.
 		- Conclusion
+		  collapsed:: true
 			- This section should provide a summary of your research, the main findings, and the implications of these findings. It should also restate the relevance of your research and provide a final thought or reflection on the study.
 	- style and readability
 	  collapsed:: true

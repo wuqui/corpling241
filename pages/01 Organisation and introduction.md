@@ -2,16 +2,21 @@ tags:: session
 
 - {{embed ((643e395d-946e-4a95-aabb-1d5b22ff438b))}}
 - Organisation
+  collapsed:: true
 	- Course materials
 	  collapsed:: true
 		- {{embed ((3b8495d7-eb59-4241-bbe4-2aae24133b6c))}}
 	- Registration
 	  collapsed:: true
-		- registered students
-		  collapsed:: true
-			- 3 or 6 ECTS?
-		- waiting list
-		- open issues?
+		- 6 ECTS
+			- MA English Studies, WP 33.1 → [[Thesenpapier]]
+			- LA Gym, P 12.2
+		- 9 ECTS
+			- MA English Studies, WP 18.1
+			- Gemeinsamer Geistes- und SozWiss-Bereich, WP Anglistik 3/5/7
+			  collapsed:: true
+				- Lioba Arnoldi
+			- MA English Studies, WP 32
 	- Schedule
 	  collapsed:: true
 		- {{embed [[schedule]]}}
@@ -22,12 +27,11 @@ tags:: session
 	  collapsed:: true
 		- {{embed [[term papers]]}}
 - Survey: experiences and expectations
+  collapsed:: true
 	- Have you written a term paper yet?
 	  collapsed:: true
 		- in linguistics?
-		  collapsed:: true
 			- an empirical one?
-			  collapsed:: true
 				- using corpus data?
 	- Have you worked with corpus data?
 	  collapsed:: true
@@ -37,13 +41,28 @@ tags:: session
 	- What are your expectations for this course?
 	  collapsed:: true
 		- What are you most interested in?
-		  collapsed:: true
 			- linguistic phenomena
+				- headlines and clickbait
+				- lexical innovation
+				- gender
+				- language teaching and authenticity
+				- code-switching (German/English)
+				- algospeak ([[lexical innovation]])
+				  collapsed:: true
+					- examples
+						- *kill* → *unalive*
+						- *sex* → *seggs*
+					- special
+						- old concept
+						- often no combination of existing parts ([[word-formation/non-morphemic]])
+						- existing variants
+						- formal variation: graphemic
 			- datasets
 			- methods
+				- [[statistics]]
+				- creating corpora (Exmeralda), adding metadata
 - Introduction
 	- Introduction to [[corpus linguistics]]
-	  collapsed:: true
 		- What is corpus linguistics about?
 		  collapsed:: true
 			- Corpus linguistics is a research methodology within the field of linguistics that focuses on the systematic study of language using large and diverse **collections of authentic texts**, known as [[corpora]].
@@ -57,12 +76,11 @@ tags:: session
 				- This approach contrasts with more traditional linguistic methods that rely heavily on introspection and theoretical speculation (e.g. Chomsky).
 			- Corpus linguistics has gained significant momentum in recent years, thanks to advances
 			  collapsed:: true
-				- in [[data]] (e.g. social media and web corpora) and
-				  collapsed:: true
-					- [[Twitter]] and [[Reddit]]
-				- [[methods]] (e.g. [social network analysis]([[social network analysis]]), [machine learning]([[machine learning]])).
+				- in [[data]]
+					- e.g. social media and web corpora like [[Twitter]] and [[Reddit]]
+				- [[methods]]
+					- e.g. [social network analysis]([[social network analysis]]), [machine learning]([[machine learning]])
 		- What is corpus linguistics good for?
-		  collapsed:: true
 			- Corpus linguistics as a [[usage-based approach]] to linguistic analysis
 			  collapsed:: true
 				- Corpus linguistics is highly valuable from a usage-based approach to linguistics, as it emphasizes the importance of **actual language use** in shaping linguistic knowledge and structure.
@@ -70,13 +88,25 @@ tags:: session
 				- The usage-based perspective posits that **linguistic structure and knowledge emerge from the patterns** and regularities that speakers encounter in their experience with language.
 				- In this context, corpus linguistics provides a powerful toolset for investigating these patterns and regularities, offering several advantages:
 				  collapsed:: true
-					- **Authentic language data**: Corpus linguistics relies on large and diverse collections of authentic texts, which represent real-world language use. This ensures that the patterns and structures uncovered through corpus analysis are grounded in genuine linguistic behavior, rather than relying on idealized or artificial examples.
-					- [[quantitative approach]]: Corpus linguistics allows for the quantitative analysis of linguistic phenomena, such as  [frequency counts]([[frequency]]) and [statistical measures]([[statistics]]). This enables researchers to identify and describe patterns and regularities that emerge from language use, supporting the usage-based claim that linguistic structure is shaped by frequency and distributional patterns in the input.
-					- [Collocations]([[collocations]]) and [[constructions]]: The usage-based approach posits that language is composed of form-meaning pairings, known as constructions, which range from morphemes and words to idiomatic expressions and complex syntactic structures. Corpus linguistics offers tools for identifying and analyzing collocations and constructions in large datasets, contributing to our understanding of the relationships between form, meaning, and use.
+					- **Authentic language data**
+					  collapsed:: true
+						- Corpus linguistics relies on large and diverse collections of authentic texts, which represent real-world language use. This ensures that the patterns and structures uncovered through corpus analysis are grounded in genuine linguistic behavior, rather than relying on idealized or artificial examples.
+					- [[quantitative approach]]
+					  collapsed:: true
+						- Corpus linguistics allows for the quantitative analysis of linguistic phenomena, such as  [frequency counts]([[frequency]]) and [statistical measures]([[statistics]]). This enables researchers to identify and describe patterns and regularities that emerge from language use, supporting the usage-based claim that linguistic structure is shaped by frequency and distributional patterns in the input.
+					- [Collocations]([[collocations]]) and [[constructions]]
 					  id:: f67743f8-3c70-475b-993b-1f2eb4bc9a2f
-					- [Variability]([[linguistic variation]]) and context sensitivity: Corpus linguistics enables the examination of language use across different contexts, genres, and [registers]([[register]]). This allows researchers to investigate how linguistic features and structures vary and adapt to different situations, providing insights into the dynamic nature of language and its sensitivity to context, which is a key aspect of the usage-based approach.
-					- [Language change]([[language change]]) and development: Corpus linguistics can be applied to [diachronic]([[diachronic]]) and [synchronic]([[synchronic]]) data, allowing researchers to track language change over time and compare different stages of language development. This helps to shed light on the emergence and evolution of linguistic structures, which is of particular interest to [usage-based theorists]([[usage-based approach]]) who seek to explain language change as a result of cumulative changes in usage patterns.
-					- Data-driven [language teaching]([[language teaching]]) and [learning]([[language learning]]): The usage-based approach emphasizes the importance of [[exposure]] to authentic [[language input]] in the acquisition process. Corpus linguistics can inform the development of language teaching materials and methods, by providing insights into the most [frequent]([[frequency]]) and relevant structures, vocabulary, and collocations that learners need to acquire.
+					  collapsed:: true
+						- The usage-based approach posits that language is composed of form-meaning pairings, known as constructions, which range from morphemes and words to idiomatic expressions and complex syntactic structures. Corpus linguistics offers tools for identifying and analyzing collocations and constructions in large datasets, contributing to our understanding of the relationships between form, meaning, and use.
+					- [Variability]([[linguistic variation]]) and context sensitivity
+					  collapsed:: true
+						- Corpus linguistics enables the examination of language use across different contexts, genres, and [registers]([[register]]). This allows researchers to investigate how linguistic features and structures vary and adapt to different situations, providing insights into the dynamic nature of language and its sensitivity to context, which is a key aspect of the usage-based approach.
+					- [Language change]([[language change]]) and development
+					  collapsed:: true
+						- Corpus linguistics can be applied to [diachronic]([[diachronic]]) and [synchronic]([[synchronic]]) data, allowing researchers to track language change over time and compare different stages of language development. This helps to shed light on the emergence and evolution of linguistic structures, which is of particular interest to [usage-based theorists]([[usage-based approach]]) who seek to explain language change as a result of cumulative changes in usage patterns.
+					- Data-driven [language teaching]([[language teaching]]) and [learning]([[language learning]])
+					  collapsed:: true
+						- The usage-based approach emphasizes the importance of [[exposure]] to authentic [[language input]] in the acquisition process. Corpus linguistics can inform the development of language teaching materials and methods, by providing insights into the most [frequent]([[frequency]]) and relevant structures, vocabulary, and collocations that learners need to acquire.
 		- Key concepts in corpus linguistics
 		  collapsed:: true
 			- {{embed ((643e61f8-cf0b-4b40-b162-8132663181d8))}}

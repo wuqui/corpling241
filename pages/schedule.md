@@ -1,7 +1,7 @@
 - | Date       | Topic                             |
   |------------|-----------------------------------|
   | 2024-04-19 | [[01 Organisation and introduction]]  |
-  | 2024-04-26 | Lexis                             |
+  | 2024-04-26 | Lexis |
   | 2024-05-03 | Lexis                             |
   | 2024-05-10 | Morphology                        |
   | 2024-05-17 | Creating corpora                  |

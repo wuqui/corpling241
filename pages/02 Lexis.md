@@ -2,9 +2,11 @@ tags:: session
 
 - registration
   collapsed:: true
+	- waiting list
 	- Who’s here?
 	- Is everyone still planning on getting credits in this course?
 - background on [[lexis]] / [[lexical innovation]]
+  collapsed:: true
 	- cultural and linguistic innovation
 	  collapsed:: true
 		- society continually changes as new practices and products emerge (e.g. smartphones)
@@ -31,6 +33,7 @@ tags:: session
 			- [[corpus-as-input]]: language used in corpora represents potential [[exposure]] to speakers
 			- [[corpus-as-output]]: languaged used by speakers in corpora represents potential degrees of entrenchment
 - [[Sketch Engine]] tutorial
+  collapsed:: true
 	- {{embed ((61964467-2068-4ed7-bf8c-a0f00fa5293e))}}
 	- [[exercises]]
 	  id:: 6447bb36-3911-4021-9189-797e35ab5c8b
