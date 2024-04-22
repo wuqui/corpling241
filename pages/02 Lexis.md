@@ -1,10 +1,15 @@
 tags:: session
 
-- registration
-  collapsed:: true
-	- waiting list
-	- Who’s here?
-	- Is everyone still planning on getting credits in this course?
+- organisation
+	- registration
+	  collapsed:: true
+		- waiting list
+		- Who’s here?
+		- Is everyone still planning on getting credits in this course?
+	- requirements
+	  collapsed:: true
+		- {{embed [[requirements]]}}
+			-
 - background on [[lexis]] / [[lexical innovation]]
   collapsed:: true
 	- cultural and linguistic innovation

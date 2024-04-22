@@ -8,7 +8,7 @@
 	- Studien-/Prüfungsordnung
 		- {{embed ((646c7ffd-e8e8-43a1-811d-c320b424a419))}}
 	- assessment types
-		- {{embed ((646c7ffd-b9f4-4cf2-b17f-bb1262894235))}}
+		- assessment types
 	- Thesenpapiere
 		- {{embed [[Thesenpapier]]}}
 	- Hausarbeiten

@@ -10,5 +10,5 @@ Quirin Würschinger, LMU Munich
 - **[requirements]([[requirements]])**
 - **[course description]([[Course description]])**
 - **schedule**
-	- {{embed [[schedule]]}}
+	- {{embed ((661fc639-a406-4c55-b596-e0d9a0caed09))}}
 - [[bibliography]]

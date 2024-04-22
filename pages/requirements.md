@@ -1,22 +1,24 @@
 - attendance
   id:: 646c7ffd-9838-4fd4-874f-d582f23fec97
-  collapsed:: true
 	- $\leq$ 2 absences
 	- **active** participation
 	- BYOD: bring your own device (ideally laptop)
 	- some preparatory reading/analyses
 - assessment
-  collapsed:: true
+  id:: 661fc639-7261-4ae1-bdcb-379819743a7d
 	- requirements depend on
 	  id:: 646c7ffd-e8e8-43a1-811d-c320b424a419
 		- your individual study programme and module combinations
 		- on how many credits you aim to get in this course
 		- please check which option and precise requirements apply to you in the Studien-/Prüfungsordnung
-	- assessment types
-	  id:: 646c7ffd-b9f4-4cf2-b17f-bb1262894235
-	  collapsed:: true
-		- 3 ECTS
-			- [[Thesenpapier]]
-		- 6 ECTS
-			- [[Hausarbeit]]
-		- 9 ECTS
+	- overview
+		- | Programme | Module     | ECTS | PaperType    | CharsMin | CharsMax |
+		  |-----------|------------|------|--------------|----------|---------:|
+		  | LA Gy     | P 12.2     | 6    | term paper   | 34,000   |   51,000 |
+		  | MA        | WP 18.1    | 9    | term paper   | 30,000   |   37,500 |
+		  | MA        | WP 2.1     | 6    | term paper   | 9,000    |   12,000 |
+		  | MA        | WP 24.1    | 6    | term paper   | 9,000    |   12,000 |
+		  | MA        | WP 25.1    | 6    | term paper   | 9,000    |   12,000 |
+		  | MA        | WP 32.1    | 9    | term paper   | 30,000   |   37,500 |
+		  | MA        | WP 33.1    | 6    | thesis paper | 3,000    |    6,000 |
+		  | MA        | WP Ang 3.1 | 9    | term paper   | 30,000   |   37,500 |
