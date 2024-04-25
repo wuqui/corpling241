@@ -3,3 +3,5 @@
 /logseq/bak/docs/
 /logseq/bak/logseq/custom/
 /logseq/bak/logseq/export/
+/logseq/bak/logseq/config/*.edn
+/pages/excalidraw-library-items-storage.md
