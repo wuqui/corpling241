@@ -38,11 +38,13 @@
 	- [[practice]]
 	  id:: 6447bb36-3911-4021-9189-797e35ab5c8b
 		- [[concordance]]
+		  collapsed:: true
 			- in the [[enTenTen20]] corpus
 				- search for attestations of the word *smartphone*
 				- search for attestations of the pattern `ADJ + SMARTPHONE` (i.e. the [lemmatized]([[lemmatization]]) [[word type]] , including *smartphones*)
 				- search for attestations of the pattern `the NOUN BE that` as in *the thing is that* or *the problems are that*
 		- [[frequency]] analysis
+		  collapsed:: true
 			- in the [[enTenTen20]] corpus, identify the most common adjectives in the pattern `ADJ SMARTPHONE`
 			- in the [[English Historical Book Collection (EEBO, ECCO, Evans)]] corpus
 				- identify which words have exhibited the highest increase in usage frequency by using the `trends` feature
