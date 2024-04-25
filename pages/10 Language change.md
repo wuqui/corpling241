@@ -3,7 +3,6 @@
 - # Language change among modal verbs ([[Hilpert2015Grammatical]])
   id:: 649aaeb1-7849-422b-9d30-8860afb2566d
 	- ## theory
-	  collapsed:: true
 		- ((649abd0a-2934-4eca-96f8-8ff4f85e03e3))
 		- Modal verbs in English
 		  id:: 649ac78b-2cb0-4686-9390-52cd05c08ecf

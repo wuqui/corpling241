@@ -11,7 +11,7 @@
   id:: 649abda8-5bb7-4afb-a445-0a64c24a9b54
 - “Parallel cross-variety declines are particularly in evidence for the modals would, may, should, must, and shall.” (“The Cambridge Handbook of English Corpus Linguistics”, 2015, p. 186)
   id:: 649b01d8-55ec-4a2b-9455-ac178224b327
-- ![image.png](../assets/image_1687862730894_0.png)
+- ![image.png](../assets/image_1687862730894_0.png){:height 320, :width 493}
   id:: 649abdca-12ca-4150-ae99-5b6edae8284f
   (p. 186)
 	- **The [[Brown Corpus]]**
