@@ -26,7 +26,7 @@ tags:: session
 		- [lexical innovation]([[lexical innovation]]) in the form of [[semantic neologisms]]
 			- [[denotational]] [[meaning]]: changes and variation in core meaning
 			- [[connotational]] [[meaning]]: changes and variation in the associative signature of words (e.g. social, stylistic)
-	- [[exercise]]: Analyze the word-formation processes involved in the following complex words.
+	- [[practice]] : Analyze the word-formation processes involved in the following complex words.
 	  collapsed:: true
 		- *childhood*
 		  collapsed:: true
@@ -86,7 +86,7 @@ tags:: session
 			- {{embed ((645a2a9e-c7a6-4959-801f-dea28d63998f))}}
 		- semantic differences
 			- {{embed ((645a2b02-c578-4edc-b121-f5bca5a76389))}}
-- # [[exercise]]: studying [clipping]([[clipping]])
+- [[practice]] : studying [clipping]([[clipping]])
   id:: 645a1aa2-28a7-41f4-bf64-bc8afce0bfa4
 	- using [[Sketch Engine]]
 		- for the dataset of clippings from [[Hilpert2023Meaning]]
@@ -110,7 +110,7 @@ tags:: session
 							- TODO insert `Table` for range of data
 								- ![image.png](../assets/image_1684234466654_0.png)
 							- TODO insert `Pivot Table` for `Table`
-id:: 64b64be4-236a-4969-a3ba-f0d1c8234931
+							  id:: 64b64be4-236a-4969-a3ba-f0d1c8234931
 								- ![image.png](../assets/image_1684234677459_0.png)
 							- TODO set `Rows`, `Values`, and `Columns`
 								- ![image.png](../assets/image_1684234987239_0.png)

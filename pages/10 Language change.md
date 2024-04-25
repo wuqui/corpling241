@@ -40,7 +40,7 @@
 			- ((649abda8-5bb7-4afb-a445-0a64c24a9b54))
 		- potential cause: [[text type/variation]]
 			- ((649abee4-15ed-4e99-854e-92a81a090ec8))
-	- ## [[practice]]
+	- [[practice]]
 	  collapsed:: true
 		- collaborative [[Microsoft Excel]] spreadsheet: https://1drv.ms/x/s!AvkgNVl9yS6aoH3H5Epize61oTeZ
 		- studying the rise and fall of modal verbs in the [[COHA]]

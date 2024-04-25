@@ -27,7 +27,7 @@ collapsed:: true
 				- {{embed ((646c8a01-f035-4b66-8d80-df92ce4de28c))}}
 			- semantic change
 				- {{embed ((646c9bdd-a595-46b1-a2c5-58d66fcb592b))}}
-	- ## [[practice]]: corpus study
+	- [[practice]]: corpus study
 		- using the [[English Historical Book Collection (EEBO, ECCO, Evans)]] in [[Sketch Engine]]
 		  id:: 646c8de9-6e1a-4e34-a604-12ad00520bf6
 			- query for the construction and get a [[concordance]] view
