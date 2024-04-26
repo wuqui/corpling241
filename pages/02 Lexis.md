@@ -1,5 +1,4 @@
 - organisation
-  collapsed:: true
 	- registration
 	  collapsed:: true
 		- open issues?
@@ -7,9 +6,29 @@
 	  collapsed:: true
 		- {{embed [[requirements]]}}
 			-
-- [[Sketch Engine]] tutorial: [((661fc639-0d3c-4679-9b37-906063c34cb7))]
+- [[Sketch Engine]]
+	- tutorial: [((661fc639-0d3c-4679-9b37-906063c34cb7))]
+	- [[practice]]
+	  id:: 6447bb36-3911-4021-9189-797e35ab5c8b
+		- [[concordance]]
+			- in the [[enTenTen20]] corpus
+				- search for attestations of the word *smartphone*
+					- ![image.png](../assets/image_1714135485736_0.png)
+				- search for attestations of the pattern `ADJ + SMARTPHONE` (i.e. the [lemmatized]([[lemmatization]]) [[word type]]; e.g. *new smartphone*, *old smartphones*)
+					- ![image.png](../assets/image_1714135531347_0.png)
+				- search for attestations of the pattern `TAKE a LOOK` (e.g. *take a look*, *takes a look*)
+					- ![image.png](../assets/image_1714135724414_0.png)
+		- [[frequency]] analysis
+		  collapsed:: true
+			- in the [[enTenTen20]] corpus, identify the most common adjectives in the pattern `ADJ SMARTPHONE`
+			- in the [[English Historical Book Collection (EEBO, ECCO, Evans)]] corpus
+				- identify which words have exhibited the highest increase in usage frequency by using the `trends` feature
+				- get an overview of the frequency increase of the word which has shown the most positive trend
+				-
 - [[lexis]] and [[lexical innovation]] in corpora
+  collapsed:: true
 	- background on [[lexis]] / [[lexical innovation]]
+	  id:: 661fc637-708e-49c9-85f9-73ffa3dec2ca
 	  collapsed:: true
 		- cultural and linguistic innovation
 		  collapsed:: true
@@ -37,17 +56,3 @@
 			  collapsed:: true
 				- [[corpus-as-input]]: language used in corpora represents potential [[exposure]] to speakers
 				- [[corpus-as-output]]: languaged used by speakers in corpora represents potential degrees of entrenchment
-	- [[practice]]
-	  id:: 6447bb36-3911-4021-9189-797e35ab5c8b
-		- [[concordance]]
-			- in the [[enTenTen20]] corpus
-				- search for attestations of the word *smartphone*
-				- search for attestations of the pattern `ADJ + SMARTPHONE` (i.e. the [lemmatized]([[lemmatization]]) [[word type]] , including *smartphones*)
-				- search for attestations of the pattern `TAKE a LOOK at NOUN`
-		- [[frequency]] analysis
-		  collapsed:: true
-			- in the [[enTenTen20]] corpus, identify the most common adjectives in the pattern `ADJ SMARTPHONE`
-			- in the [[English Historical Book Collection (EEBO, ECCO, Evans)]] corpus
-				- identify which words have exhibited the highest increase in usage frequency by using the `trends` feature
-				- get an overview of the frequency increase of the word which has shown the most positive trend
-				-
