@@ -1,4 +1,5 @@
 - organisation
+  collapsed:: true
 	- registration
 	  collapsed:: true
 		- open issues?
@@ -9,6 +10,7 @@
 - [[Sketch Engine]] tutorial: [((661fc639-0d3c-4679-9b37-906063c34cb7))]
 - [[lexis]] and [[lexical innovation]] in corpora
 	- background on [[lexis]] / [[lexical innovation]]
+	  collapsed:: true
 		- cultural and linguistic innovation
 		  collapsed:: true
 			- society continually changes as new practices and products emerge (e.g. smartphones)
@@ -38,11 +40,10 @@
 	- [[practice]]
 	  id:: 6447bb36-3911-4021-9189-797e35ab5c8b
 		- [[concordance]]
-		  collapsed:: true
 			- in the [[enTenTen20]] corpus
 				- search for attestations of the word *smartphone*
 				- search for attestations of the pattern `ADJ + SMARTPHONE` (i.e. the [lemmatized]([[lemmatization]]) [[word type]] , including *smartphones*)
-				- search for attestations of the pattern `the NOUN BE that` as in *the thing is that* or *the problems are that*
+				- search for attestations of the pattern `TAKE a LOOK at NOUN`
 		- [[frequency]] analysis
 		  collapsed:: true
 			- in the [[enTenTen20]] corpus, identify the most common adjectives in the pattern `ADJ SMARTPHONE`
