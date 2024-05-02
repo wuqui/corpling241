@@ -16,7 +16,7 @@
 		- EC-Model
 			- {{embed ((6447aec5-f6ed-4fc0-99e4-23a9d1ea761f))}}
 		- [[entrenchment]]
-			- {{embed ((646c7ffc-80c0-4526-935c-4c5f3d015114))}}
+			- [[frequency]] as an indicator for [[entrenchment]] and [conventionality]([[conventionalization]]) ([[Stefanowitsch2017Corpusbased]])
 - [[Schmid2015Entrenchment]]: variation among historical author
   collapsed:: true
 	- abstract

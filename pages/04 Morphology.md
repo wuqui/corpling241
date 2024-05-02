@@ -97,7 +97,7 @@ tags:: session
 			- determine their [[frequency]]
 			  id:: 645a1b1f-99b5-43c5-be5a-23f355169129
 			  collapsed:: true
-				- total frequency in the [[Timestamped JSI web corpus 2014-2021 English]]
+				- total frequency in the [[English Trends (2014–today)]]
 					- determine frequency for
 						- absolute
 						- relative
@@ -119,7 +119,7 @@ tags:: session
 								- ![image.png](../assets/image_1684235134140_0.png)
 								  id:: 64b64be4-c0d9-4cdc-9fb7-294f9ca3ba27
 				- potential further analyses
-					- frequency over time in the [[Timestamped JSI web corpus 2014-2021 English]]
+					- frequency over time in the [[English Trends (2014–today)]]
 					- frequency by text type in the [[enTenTen20]] corpus
 			- ((1e44dc00-0557-4672-9187-6986cf52b3e7))
 	- follow-up: studying long-term [[diachronic]] trends using [[english-corpora.org]]

@@ -253,8 +253,8 @@
 			- {{embed ((6447af61-6674-4374-9bab-a132f1af0f01))}}
 		- [[EC-Model]]
 			- {{embed ((64b64be5-125d-4878-bff7-43b9cf505a92))}}
-		- [corpus-as-input and corpus-as-output](((646c7ffc-80c0-4526-935c-4c5f3d015114)))
-			- {{embed ((646c7ffc-80c0-4526-935c-4c5f3d015114))}}
+		- [corpus-as-input and corpus-as-output]([[frequency]] as an indicator for [[entrenchment]] and [conventionality]([[conventionalization]]) ([[Stefanowitsch2017Corpusbased]]))
+			- [[frequency]] as an indicator for [[entrenchment]] and [conventionality]([[conventionalization]]) ([[Stefanowitsch2017Corpusbased]])
 		- register and [[text type/variation]]
 			- ((6488482e-0fd9-49cd-b1b4-56aadf272178))
 		- [[distributional hypothesis]]
@@ -305,7 +305,7 @@
 			- [[Gutenberg English 2020]]
 			- [[EEBO]]
 			- [[enTenTen20]]
-			- [[Timestamped JSI web corpus 2014-2021 English]]
+			- [[English Trends (2014–today)]]
 		- [[english-corpora.org]]
 			- [[COHA]]
 			- [[COCA]]

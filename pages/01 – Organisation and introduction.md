@@ -1,5 +1,3 @@
-tags:: session
-
 - {{embed ((643e395d-946e-4a95-aabb-1d5b22ff438b))}}
 - organisation
 	- course materials
