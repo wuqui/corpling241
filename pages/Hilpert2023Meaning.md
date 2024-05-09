@@ -55,8 +55,8 @@ tags:: [[paper]]
   id:: 645a2a9e-c7a6-4959-801f-dea28d63998f
 	- ![image.png](../assets/image_1683630755727_0.png)
 	  id:: 646c7ffd-a38c-4a5b-8f4f-174115b0de8d
-	- p. 25
+	  p. 25
 - differences in [[collocations]] for *cardio-vascular* vs *cardio*
   id:: 645a2b02-c578-4edc-b121-f5bca5a76389
 	- ![image.png](../assets/image_1683630867757_0.png)
-		- p. 31
+	  p. 31

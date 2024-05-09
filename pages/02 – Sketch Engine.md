@@ -11,8 +11,7 @@
 	- [[practice]]
 	  id:: 6447bb36-3911-4021-9189-797e35ab5c8b
 		- [[concordance]]
-		  collapsed:: true
-			- in the [[enTenTen20]] corpus
+			- in the [[enTenTen21]] corpus
 				- search for attestations of the word *smartphone*
 				  collapsed:: true
 					- ![image.png](../assets/image_1714135485736_0.png)
@@ -23,8 +22,7 @@
 				  collapsed:: true
 					- ![image.png](../assets/image_1714135724414_0.png)
 		- [[frequency]] analysis
-		  collapsed:: true
-			- in the [[enTenTen20]] corpus, identify the most common adjectives in the pattern `ADJ SMARTPHONE`
+			- in the [[enTenTen21]] corpus, identify the most common adjectives in the pattern `ADJ SMARTPHONE`
 			- in the [[English Historical Book Collection (EEBO, ECCO, Evans)]] corpus
 				- identify which words have exhibited the highest increase in usage frequency by using the `Trends` feature
 				  collapsed:: true

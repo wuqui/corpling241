@@ -97,14 +97,13 @@
 					   were downloaded from.
 					- The number is the relative frequency of the query result divided by the relative size of the particular text type. It can be interpreted as *how much more/less frequent is the result of the query in this text type compared to the whole corpus*.
 				- another popular measure: *frequency per million words* (pmw)
-		- frequency across [text types]([[text type/variation]]) in the [[enTenTen20]] corpus
+		- frequency across [text types]([[text type/variation]]) in the [[enTenTen21]] corpus
 			- [SkE results](https://app.sketchengine.eu/#concordance?corpname=preloaded%2Fententen21_tt31&tab=advanced&queryselector=cql&attrs=word&viewmode=kwic&attr_allpos=all&refs_up=0&shorten_refs=1&glue=1&gdexcnt=300&show_gdex_scores=0&itemsPerPage=20&structs=s%2Cg&refs=%3Ddoc.website&default_attr=lemma&cql=%5Blemma%3D%22alt-right%22%5D&showresults=1&showTBL=0&tbl_template=&gdexconf=&cb=slemma%3D%22alt-right%22&f_tab=advanced&f_showrelfrq=1&f_showperc=0&f_showreldens=1&f_showreltt=1&c_customrange=0&t_attr=&t_absfrq=0&t_trimempty=1&t_threshold=5&operations=%5B%7B%22name%22%3A%22cql%22%2C%22arg%22%3A%22%5Blemma%3D%5C%22alt-right%5C%22%5D%22%2C%22query%22%3A%7B%22queryselector%22%3A%22cqlrow%22%2C%22cql%22%3A%22%5Blemma%3D%5C%22alt-right%5C%22%5D%22%2C%22default_attr%22%3A%22lemma%22%7D%2C%22id%22%3A6249%7D%5D)
 			- distribution of the use of *alt-right* across the `Topic` text type
 				- ![image.png](../assets/image_1714692509156_0.png)
 				  id:: 64b64be4-92a2-45aa-a795-5c79e22375dd
 - [[practice]]: studying lexical innovation using corpora
   id:: 6450dc50-0db4-4ce1-a6e5-7440beb8e766
-  collapsed:: true
 	- using the case study words from [[Würschinger2021Social]],
 	  collapsed:: true
 		- *upskill*
@@ -116,7 +115,6 @@
 	- for each of these words, using [[Sketch Engine]],
 		- in the [[English Trends (2014–today)]], corpus determine
 			- its total [frequency]([[frequency]])
-			  collapsed:: true
 				- for [[alt-right]]
 					- query: `[lemma="alt-right"]`
 					- result
@@ -124,26 +122,20 @@
 							- absolute total frequency: `86,572`
 							- relative total frequency: `1.23` per million words/tokens (pmw)
 			- its [frequency]([[frequency]]) over time: which was the `Year` it was used the most?
-			  collapsed:: true
 				- ![Screenshot 2023-05-09 at 11.07.38.png](../assets/Screenshot_2023-05-09_at_11.07.38_1683623335276_0.png)
 				- ![Screenshot 2023-05-09 at 11.11.02.png](../assets/Screenshot_2023-05-09_at_11.11.02_1683623534916_0.png)
 				  collapsed:: true
 					- sort by year
 					- `Frequency`: raw frequency
 					- `Relative in text type`: relative frequency (per million words)
-		- in the [[enTenTen20]] corpus, determine
-			- in which `Topic` was it used the most? ([[text type]])
-			  collapsed:: true
+		- in the [[enTenTen21]] corpus, determine
+			- in which `Genre` was it used the most? ([[text type]])
 				- e.g. for [[alt-right]]
-				  collapsed:: true
 					- ![Screenshot 2023-05-09 at 11.14.00.png](../assets/Screenshot_2023-05-09_at_11.14.00_1683623774717_0.png)
 					- ![image.png](../assets/image_1683623788788_0.png)
 		- take notes and compare your results
-		  collapsed:: true
 			- which words show highest/lowest degrees of [conventionality]([[conventionalization]])?
-			  collapsed:: true
 				- in the [[English Trends (2014–today)]]
-				  collapsed:: true
 					- using the query, e.g., `[lemma="alt-left"]`
 						- |Lexeme|FreqAbs|FreqRel|
 						  |:---|---:|----:|
@@ -154,9 +146,5 @@
 						  |*alt-left*|3,665|0.05|
 						  |*poppygate*|15|< 0.01|
 			- for which words is there a discrepancy to the results on Twitter?
-			  collapsed:: true
 				- {{embed ((6450f28f-eafd-4c42-a56d-50f417b67585))}}
 		- follow-up: create charts in [Excel]([[Microsoft Excel]])
-- [[Sketch Engine]] tutorial
-  collapsed:: true
-	- {{embed ((6447bb36-3911-4021-9189-797e35ab5c8b))}}
