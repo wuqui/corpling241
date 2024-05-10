@@ -28,7 +28,9 @@
 	- [[practice]]: Analyze the word-formation processes involved in the following complex words.
 		- example: morphological stemma of *disclaimers*
 			- {{renderer excalidraw, excalidraw-2024-05-10-11-01-15}}
+			- ![image.png](../assets/image_1715356109774_0.png)
 		- *childhood*
+		  collapsed:: true
 			- derivation / suffixation
 		- *paperback*
 		  collapsed:: true
@@ -40,8 +42,10 @@
 		  collapsed:: true
 			- derivation / suffixation
 		- *paleface*
+		  collapsed:: true
 			- compounding / exocentric
 		- *Oxbridge*
+		  collapsed:: true
 			- blending
 		- *CGEL*
 		  collapsed:: true
