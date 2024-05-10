@@ -105,7 +105,6 @@
 - [[practice]]: studying lexical innovation using corpora
   id:: 6450dc50-0db4-4ce1-a6e5-7440beb8e766
 	- using the case study words from [[Würschinger2021Social]],
-	  collapsed:: true
 		- *upskill*
 		- *hyperlocal*
 		- *solopreneur*
@@ -114,14 +113,18 @@
 		- *poppygate*
 	- for each of these words, using [[Sketch Engine]],
 		- in the [[English Trends (2014–today)]], corpus determine
+		  collapsed:: true
 			- its total [frequency]([[frequency]])
+			  collapsed:: true
 				- for [[alt-right]]
+				  collapsed:: true
 					- query: `[lemma="alt-right"]`
 					- result
 						- ![Screenshot 2023-05-09 at 11.04.54.png](../assets/Screenshot_2023-05-09_at_11.04.54_1683623177745_0.png)
 							- absolute total frequency: `86,572`
 							- relative total frequency: `1.23` per million words/tokens (pmw)
 			- its [frequency]([[frequency]]) over time: which was the `Year` it was used the most?
+			  collapsed:: true
 				- ![Screenshot 2023-05-09 at 11.07.38.png](../assets/Screenshot_2023-05-09_at_11.07.38_1683623335276_0.png)
 				- ![Screenshot 2023-05-09 at 11.11.02.png](../assets/Screenshot_2023-05-09_at_11.11.02_1683623534916_0.png)
 				  collapsed:: true
@@ -129,11 +132,14 @@
 					- `Frequency`: raw frequency
 					- `Relative in text type`: relative frequency (per million words)
 		- in the [[enTenTen21]] corpus, determine
+		  collapsed:: true
 			- in which `Genre` was it used the most? ([[text type]])
 				- e.g. for [[alt-right]]
+				  collapsed:: true
 					- ![Screenshot 2023-05-09 at 11.14.00.png](../assets/Screenshot_2023-05-09_at_11.14.00_1683623774717_0.png)
 					- ![image.png](../assets/image_1683623788788_0.png)
 		- take notes and compare your results
+		  collapsed:: true
 			- which words show highest/lowest degrees of [conventionality]([[conventionalization]])?
 				- in the [[English Trends (2014–today)]]
 					- using the query, e.g., `[lemma="alt-left"]`

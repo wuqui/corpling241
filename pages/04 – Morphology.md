@@ -26,9 +26,9 @@
 			- [[denotational]] [[meaning]]: changes and variation in core meaning
 			- [[connotational]] [[meaning]]: changes and variation in the associative signature of words (e.g. social, stylistic)
 	- [[practice]]: Analyze the word-formation processes involved in the following complex words.
-	  collapsed:: true
+		- example: morphological stemma of *disclaimers*
+			- {{renderer excalidraw, excalidraw-2024-05-10-11-01-15}}
 		- *childhood*
-		  collapsed:: true
 			- derivation / suffixation
 		- *paperback*
 		  collapsed:: true
@@ -40,10 +40,8 @@
 		  collapsed:: true
 			- derivation / suffixation
 		- *paleface*
-		  collapsed:: true
 			- compounding / exocentric
 		- *Oxbridge*
-		  collapsed:: true
 			- blending
 		- *CGEL*
 		  collapsed:: true
@@ -89,9 +87,7 @@
 - [[practice]]: studying [clipping]([[clipping]])
   id:: 645a1aa2-28a7-41f4-bf64-bc8afce0bfa4
 	- using [[Sketch Engine]]
-	  collapsed:: true
 		- for the dataset of clippings from [[Hilpert2023Meaning]]
-		  collapsed:: true
 			- ![image.png](../assets/image_1683629476811_0.png)
 			  id:: 645a24aa-aa0c-4e46-87c3-3afc287b2a9a
 		- for example pairs of (1) source words (e.g. *brother*) and (2) clipped form (e.g. *bro*)
