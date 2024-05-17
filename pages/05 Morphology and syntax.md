@@ -1,10 +1,9 @@
-- # morphology
+# morphology
 	- ## frequency-based analysis of clippings
 	  collapsed:: true
 		- {{embed ((645a1b1f-99b5-43c5-be5a-23f355169129))}}
 	- ## studying [[semantics]] in the [[enTenTen20]] corpus
 	  id:: 1e44dc00-0557-4672-9187-6986cf52b3e7
-	  collapsed:: true
 		- theoretical background on [[collocations]]
 		  collapsed:: true
 			- ((f67743f8-3c70-475b-993b-1f2eb4bc9a2f))
@@ -16,13 +15,11 @@
 			  collapsed:: true
 				- run query to retrieve all occurrences and get concordance view (e.g. `[word="brother"]`)
 					- ![image.png](../assets/image_1684831483384_0.png){:height 246, :width 630}
-					  id:: 646c7cfa-b90e-4b49-8cf4-c78f8e81c272
 				- click on collocation analysis icon (see green rectangle [above](((646c7cfa-b90e-4b49-8cf4-c78f8e81c272))))
 				- run collocation analysis
 					- ![image.png](../assets/image_1684831570709_0.png)
 						- ==1==: context window range to be considered: how many words to the left and right of the target word
 						- ==2==: statistical measures to be used
-						  id:: 646c7ffc-2a9c-4ee8-932c-5f9147e4823f
 				- results
 					- ![image.png](../assets/image_1684832062090_0.png)
 						- ==1==: statistical measures (see [above](((646c7ffc-2a9c-4ee8-932c-5f9147e4823f))))
@@ -34,7 +31,6 @@
 						- syntactic contexts
 							- ![image.png](../assets/image_1684832455653_0.png)
 								- ==1==: visualise results
-								  id:: 646c8116-7ad7-48a1-960d-15d7a6ec922b
 						- visualisation (using [button](((646c8116-7ad7-48a1-960d-15d7a6ec922b))))
 							- ![image.png](../assets/image_1684832490497_0.png)
 				- word sketch comparison: source words (e.g. *brother*) vs clipped form (e.g. *bro*)
@@ -43,7 +39,6 @@
 							- ==1==: word class
 					- results
 						- ![image.png](../assets/image_1684832735628_0.png)
-						  id:: 64b64be4-745d-488a-8e25-9f1f88b74ae1
 					- inspect [[collocations]]
 						- ![image.png](../assets/image_1684832852345_0.png)
 						- results
@@ -82,5 +77,6 @@
 	- studying semantic features of clippings ([[Hilpert2023Meaning]])
 	  collapsed:: true
 		- [[collocations]]
+		  collapsed:: true
 			- ![image.png](../assets/image_1684237426924_0.png)
 			- ![image.png](../assets/image_1684237409457_0.png)

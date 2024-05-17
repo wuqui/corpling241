@@ -299,7 +299,7 @@
 				- modal verbs
 					- ((64b64be4-e5a6-4ddf-9483-3cc5b0e458f5))
 			- [[semantics]]
-				- ((64b64be4-745d-488a-8e25-9f1f88b74ae1))
+				- ![image.png](../assets/image_1684832735628_0.png)
 	- data and corpora
 		- [[Sketch Engine]]
 			- [[Gutenberg English 2020]]

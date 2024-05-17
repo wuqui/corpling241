@@ -20,7 +20,6 @@
 	  collapsed:: true
 		- Collocation refers to the co-occurrence of words within a specific context or proximity. Studying collocations can reveal important information about word usage, meaning, and associations.
 		  id:: 643e7a15-ed51-442c-876c-b0e501e8a7c1
-		  collapsed:: true
 			- ‘You shall know a word by the company it keeps.’ ([[Firth1957SynopsisLinguistic]]) [[distributional hypothesis]]
 			- [[word sketches]]
 	- [[frequency]]

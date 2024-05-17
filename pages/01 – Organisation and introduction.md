@@ -95,7 +95,6 @@
 						- Corpus linguistics allows for the quantitative analysis of linguistic phenomena, such as  [frequency counts]([[frequency]]) and [statistical measures]([[statistics]]). This enables researchers to identify and describe patterns and regularities that emerge from language use, supporting the usage-based claim that linguistic structure is shaped by frequency and distributional patterns in the input.
 					- [Collocations]([[collocations]]) and [[constructions]]
 					  id:: f67743f8-3c70-475b-993b-1f2eb4bc9a2f
-					  collapsed:: true
 						- The usage-based approach posits that language is composed of form-meaning pairings, known as constructions, which range from morphemes and words to idiomatic expressions and complex syntactic structures. Corpus linguistics offers tools for identifying and analyzing collocations and constructions in large datasets, contributing to our understanding of the relationships between form, meaning, and use.
 					- [Variability]([[linguistic variation]]) and context sensitivity
 					  collapsed:: true

@@ -6,10 +6,13 @@ tags:: [[paper]]
 - [pdf](../assets/Hilpert2023Meaning_1683626839872_0.pdf)
 - [[abstract]]
   id:: 645a1b9e-f78b-46c6-a43e-262f285a67d2
-	- > This paper uses corpus data and methods of [[distributional semantics]] in order to study English [clippings]([[clipping]]) such as dorm (< dormitory), memo (< memorandum), or quake (< earthquake).
+  collapsed:: true
+	- id:: 661fc639-491d-48fe-a06f-2298df592809
+	  > This paper uses corpus data and methods of [[distributional semantics]] in order to study English [clippings]([[clipping]]) such as *dorm* (< *dormitory*), *memo* (< *memorandum*), or *quake* (< *earthquake*).
 	- id:: 646c7ffd-bf32-4ce5-9756-917cc35793c1
 	  > We investigate whether systematic [meaning differences]([[semantic/variation]]) between clippings and their source words can be detected.
-	- > The analysis is based on a sample of 50 English clippings.
+	- id:: 661fc639-360a-4797-9b24-0fa33142b4e3
+	  > The analysis is based on a sample of 50 English clippings.
 	- id:: 646c7ffd-64bb-4d36-b9eb-e4f2494ab615
 	  > Each of the clippings is represented by a [concordance]([[concordance]]) of 100 examples in context that were gathered from the [Corpus of Contemporary American English]([[COCA]]).
 	- id:: 646c7ffd-caf2-4a96-b8e4-16eedf3cecfd
@@ -22,7 +25,7 @@ tags:: [[paper]]
 - [[keywords]]
 	- > clipping, COCA, distributional profile, Construction Grammar, Principle of No Synonymy
 - [[research questions]]
-	- > “This paper uses corpus data in order to study English clippings such as dorm (< dormitory), memo (< memorandum), or quake (< earthquake), which are formed on the basis of existing lexical items from which phonological material is deleted. More specifically, we investigate meaning differences between clippings and their source words. Are there semantic or pragmatic differences between pairs such as dorm and dormitory, and if so, what are they? Is it possible to formulate generalizations that capture how clippings and their source words relate to one another with regard to meaning? How should these relations be described?” (Hilpert et al., 2023, p. 19)
+	- > “This paper uses corpus data in order to study English clippings such as *dorm* (< *dormitory*), *memo* (< *memorandum*), or *quake* (< *earthquake*), which are formed on the basis of existing lexical items from which phonological material is deleted. More specifically, we investigate meaning differences between clippings and their source words. Are there semantic or pragmatic differences between pairs such as dorm and dormitory, and if so, what are they? Is it possible to formulate generalizations that capture how clippings and their source words relate to one another with regard to meaning? How should these relations be described?” (Hilpert et al., 2023, p. 19)
 - [[data]]
   id:: 645a1d76-e12f-450a-86b2-e69ccea0890f
 	- id:: 646c7ffd-9ec6-4e8d-a179-d516891af48f
@@ -39,7 +42,7 @@ tags:: [[paper]]
 	- [[word embeddings]]
 - [meaning]([[meaning]]) of [clippings]([[clipping]])
 	- id:: 645a1fda-7e5f-4fa4-8572-25f32477431e
-	  > “At one extreme of the continuum, the semantic distance between the two is thought to be minimal, or even non-existent. For example, Dressler (2000: 4) argues that abbreviations and clippings such as GOP (< Grand Old Party) or mic (< microphone) do not, as a matter of principle, change the meaning of their source words. Clippings and their source words are thus viewed as mutual alternatives that only differ in form.” (Hilpert et al., 2023, p. 20)
+	  > “At one extreme of the continuum, the semantic distance between the two is thought to be minimal, or even non-existent. For example, Dressler (2000: 4) argues that abbreviations and clippings such as *GOP* (< *Grand Old Party*) or *mic* (< *microphone*) do not, as a matter of principle, change the meaning of their source words. Clippings and their source words are thus viewed as mutual alternatives that only differ in form.” (Hilpert et al., 2023, p. 20)
 	- the author’s framework
 		- id:: 645a1ffc-fe23-483c-bb95-d1e5ca0548e3
 		  > “The present paper adopts a view of clippings and their meanings that owes its general orientation to what Goldberg (1995: 67) has termed the [Principle of No Synonymy]([[Principle of No Synonymy]]). That principle holds that a difference in linguistic form will always indicate a difference in meaning, either with regard to semantic aspects or concerning discourse-functional characteristics of the form in question. We thus work with a broad notion of meaning that includes information-structural, discourse-functional and interpersonal aspects, among other facets of linguistic meaning and function” (Hilpert et al., 2023, p. 21)
