@@ -6,6 +6,7 @@ tags:: [[paper]]
 - [pdf](../assets/Hilpert2023Meaning_1683626839872_0.pdf)
 - [[abstract]]
   id:: 645a1b9e-f78b-46c6-a43e-262f285a67d2
+  collapsed:: true
 	- id:: 661fc639-491d-48fe-a06f-2298df592809
 	  > This paper uses corpus data and methods of [[distributional semantics]] in order to study English [clippings]([[clipping]]) such as *dorm* (< *dormitory*), *memo* (< *memorandum*), or *quake* (< *earthquake*).
 	- id:: 646c7ffd-bf32-4ce5-9756-917cc35793c1
@@ -22,8 +23,10 @@ tags:: [[paper]]
 	  > It is further observed that individual clippings and their source words partly diverge in their distributional profiles, reflecting both overlap and differences with regard to their meanings.
 	- > We interpret these findings against the theoretical background of [Construction Grammar]([[Construction Grammar]]) and specifically the Principle of No Synonymy.
 - [[keywords]]
+  collapsed:: true
 	- > clipping, COCA, distributional profile, Construction Grammar, Principle of No Synonymy
 - [[research questions]]
+  collapsed:: true
 	- > “This paper uses corpus data in order to study English clippings such as *dorm* (< *dormitory*), *memo* (< *memorandum*), or *quake* (< *earthquake*), which are formed on the basis of existing lexical items from which phonological material is deleted. More specifically, we investigate meaning differences between clippings and their source words. Are there semantic or pragmatic differences between pairs such as dorm and dormitory, and if so, what are they? Is it possible to formulate generalizations that capture how clippings and their source words relate to one another with regard to meaning? How should these relations be described?” (Hilpert et al., 2023, p. 19)
 - [[data]]
   id:: 645a1d76-e12f-450a-86b2-e69ccea0890f
@@ -34,12 +37,15 @@ tags:: [[paper]]
 	- id:: 645a2859-a8d9-42e6-a102-69fd03ed164e
 	  > For each clipping and each source word, we retrieve corpus data from the [Corpus of Contemporary American English]([[COCA]]) (Davies 2008), which serves as the basis for our analyses.” (Hilpert et al., 2023, p. 19)
 - [[text type/variation]]: involved vs information text production ([[Biber1988Variation]])
+  collapsed:: true
 	- id:: 645a1dbd-328b-464e-b703-0ef2c6ab114f
 	  > “Clippings appear to be preferred in contexts in which there is substantial common ground between speaker and hearer, which aligns with the notion that clippings signal familiarity with the ideas that are conveyed (Wierzbicka 1984; Quirk et al. 1985; Plag 2003; Katamba 2005).” (Hilpert et al., 2023, p. 20)
 - [[method]]
+  collapsed:: true
 	- [[collocations]]
 	- [[word embeddings]]
 - [meaning]([[meaning]]) of [clippings]([[clipping]])
+  collapsed:: true
 	- id:: 645a1fda-7e5f-4fa4-8572-25f32477431e
 	  > “At one extreme of the continuum, the semantic distance between the two is thought to be minimal, or even non-existent. For example, Dressler (2000: 4) argues that abbreviations and clippings such as *GOP* (< *Grand Old Party*) or *mic* (< *microphone*) do not, as a matter of principle, change the meaning of their source words. Clippings and their source words are thus viewed as mutual alternatives that only differ in form.” (Hilpert et al., 2023, p. 20)
 	- the author’s framework
@@ -55,10 +61,12 @@ tags:: [[paper]]
 		  > “In this paper, we use corpus data from the COCA (Davies 2008) to compare clippings and their source words, as for example cardio and cardiovascular, in terms of their distributional behavior. We present evidence in order to suggest that there are tangible differences between clippings and their source words, and that despite a fair amount of semantic overlap, it is reasonable to maintain that once a clipping has established itself in language use, speakers will treat it as a separate lexical element.” (Hilpert et al., 2023, p. 22)
 - [[text type]] features
   id:: 645a2a9e-c7a6-4959-801f-dea28d63998f
+  collapsed:: true
 	- ![image.png](../assets/image_1683630755727_0.png)
 	  id:: 646c7ffd-a38c-4a5b-8f4f-174115b0de8d
 	  p. 25
 - differences in [[collocations]] for *cardio-vascular* vs *cardio*
   id:: 645a2b02-c578-4edc-b121-f5bca5a76389
+  collapsed:: true
 	- ![image.png](../assets/image_1683630867757_0.png)
 	  p. 31

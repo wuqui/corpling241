@@ -1,13 +1,12 @@
-- studying variation in frequency of use
+- studying variation in **frequency** of use
 	- background of [[Hilpert2023Meaning]]
 	  collapsed:: true
 		- ((645a1add-5577-41b5-a719-4379a3fc72d5))
 		- abstract
-		  collapsed:: true
 			- {{embed ((645a1b9e-f78b-46c6-a43e-262f285a67d2))}}
 	- practice
 		- {{embed ((645a1aa2-28a7-41f4-bf64-bc8afce0bfa4))}}
-- studying variation in [[meaning]]
+- studying variation in **[[meaning]]**
 	- theoretical background on [[collocations]]
 		- constructions
 		  collapsed:: true
@@ -24,8 +23,10 @@
 		- [[word embeddings]]
 		  collapsed:: true
 			- What does *tezgüino* mean?
+			  collapsed:: true
 				- ![image.png](../assets/image_1715922054887_0.png)
 			- embedding words
+			  collapsed:: true
 				- ![image.png](../assets/image_1715922175739_0.png)
 			- semantic space
 				- ![image.png](../assets/image_1715922139032_0.png)
@@ -44,7 +45,6 @@
 		  collapsed:: true
 			- {{embed ((661fc638-a344-424e-887f-9d8dd21a6b23))}}
 	- [[practice]]: studying semantics using collocations and [[word sketches]] in [[enTenTen21]] corpus on  [[Sketch Engine]]
-	  collapsed:: true
 		- [[collocations]]
 		  collapsed:: true
 			- run query to retrieve all occurrences and get concordance view (e.g. `[word="brother"]`)

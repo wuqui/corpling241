@@ -104,19 +104,22 @@
 			- query: e.g. `[lemma="brother" & tag="N.*"]`
 			- frequency types: absolute & relative frequency
 	- using [[Microsoft Excel]]
-	  collapsed:: true
 		- collect results in [this](https://1drv.ms/x/s!AvkgNVl9yS6aokEnvVJ0U1qeQYe4) collaborative spreadsheet
 		- analyse results
 		  id:: 6463603a-25b8-468a-abff-524a6c75fe4f
 			- insert `Table` for range of data
+			  collapsed:: true
 				- ![image.png](../assets/image_1684234466654_0.png)
 			- insert `Pivot Table` for `Table`
 			  id:: 64b64be4-236a-4969-a3ba-f0d1c8234931
+			  collapsed:: true
 				- ![image.png](../assets/image_1684234677459_0.png)
 			- set `Rows`, `Values`, and `Columns`
+			  collapsed:: true
 				- ![image.png](../assets/image_1684234987239_0.png)
 				- remove `Grand Total` by right-click → remove
 			- insert `Pivot Chart`
+			  collapsed:: true
 				- ![image.png](../assets/image_1684235134140_0.png)
 				  id:: 64b64be4-c0d9-4cdc-9fb7-294f9ca3ba27
 				  collapsed:: true
