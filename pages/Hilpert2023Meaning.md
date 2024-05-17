@@ -6,7 +6,6 @@ tags:: [[paper]]
 - [pdf](../assets/Hilpert2023Meaning_1683626839872_0.pdf)
 - [[abstract]]
   id:: 645a1b9e-f78b-46c6-a43e-262f285a67d2
-  collapsed:: true
 	- id:: 661fc639-491d-48fe-a06f-2298df592809
 	  > This paper uses corpus data and methods of [[distributional semantics]] in order to study English [clippings]([[clipping]]) such as *dorm* (< *dormitory*), *memo* (< *memorandum*), or *quake* (< *earthquake*).
 	- id:: 646c7ffd-bf32-4ce5-9756-917cc35793c1
@@ -51,7 +50,7 @@ tags:: [[paper]]
 		- id:: 645a20e9-f7b0-478b-bd31-d1fa07fdd451
 		  > “We further subscribe to what is known as the [distributional hypothesis]([[distributional hypothesis]]) (Firth 1957; Turney and Pantel 2010), which holds that the meaning of words is reflected in their contextual elements in language use. Words that appear in similar contexts can be shown to share aspects of their meanings. For example, the words 2” (Hilpert et al., 2023, p. 21)
 			- id:: 645a20d0-6b75-486f-9ba9-bbdf716dc685
-			  > “For example, the words cardiovascular and hypertension, which are semantically related, appear in contexts that share many common collocates such as heart, disease, diabetes, stroke, and others.” (Hilpert et al., 2023, p. 22)
+			  > “For example, the words *cardiovascular* and *hypertension*, which are semantically related, appear in contexts that share many common collocates such as heart, disease, diabetes, stroke, and others.” (Hilpert et al., 2023, p. 22)
 		- id:: 645a2087-0c80-4a30-838d-52a0d2c3e8fa
 		  > “In this paper, we use corpus data from the COCA (Davies 2008) to compare clippings and their source words, as for example cardio and cardiovascular, in terms of their distributional behavior. We present evidence in order to suggest that there are tangible differences between clippings and their source words, and that despite a fair amount of semantic overlap, it is reasonable to maintain that once a clipping has established itself in language use, speakers will treat it as a separate lexical element.” (Hilpert et al., 2023, p. 22)
 - [[text type]] features

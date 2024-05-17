@@ -63,7 +63,6 @@
 		- {{embed ((645a1b9e-f78b-46c6-a43e-262f285a67d2))}}
 	- theoretical framework
 	  id:: 661fc638-8ee3-4c63-8252-94500d90d702
-	  collapsed:: true
 		- alternative view in previous work: no difference between source and clipped forms
 			- ((645a1fda-7e5f-4fa4-8572-25f32477431e))
 		- authors’ framework
@@ -74,19 +73,8 @@
 			- [[distributional hypothesis]]
 				- ((645a20e9-f7b0-478b-bd31-d1fa07fdd451))
 				- ((645a20d0-6b75-486f-9ba9-bbdf716dc685))
-				- [[word embeddings]]
-					- What does *tezgüino* mean?
-					  collapsed:: true
-						- ![image.png](../assets/image_1715922054887_0.png)
-					- embedding words
-					  collapsed:: true
-						- ![image.png](../assets/image_1715922175739_0.png)
-					- semantic space
-					  collapsed:: true
-						- ![image.png](../assets/image_1715922139032_0.png)
 	- data
 	  id:: 661fc638-c87c-43dd-99f7-43f003242132
-	  collapsed:: true
 		- dataset of clippings
 			- ((645a2870-9ab6-4a81-941d-44fe6a3c121a))
 		- corpus data
@@ -98,7 +86,6 @@
 			- [[word embeddings]]
 	- results
 	  id:: 661fc638-a344-424e-887f-9d8dd21a6b23
-	  collapsed:: true
 		- variation across text types
 			- ((645a1dbd-328b-464e-b703-0ef2c6ab114f))
 			- {{embed ((645a2a9e-c7a6-4959-801f-dea28d63998f))}}
@@ -109,7 +96,6 @@
 	- using [[Sketch Engine]]
 	  collapsed:: true
 		- for the dataset of clippings from [[Hilpert2023Meaning]]
-		  collapsed:: true
 			- ![image.png](../assets/image_1683629476811_0.png)
 			  id:: 645a24aa-aa0c-4e46-87c3-3afc287b2a9a
 		- for example pairs of (1) source words (e.g. *brother*) and (2) clipped form (e.g. *bro*)
