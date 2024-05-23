@@ -127,3 +127,15 @@
 				- ![image.png](../assets/image_1689069747697_0.png)
 		- check keywords
 			- ![image.png](../assets/image_1689069813967_0.png)
+	- from [[YouTube]]
+	  collapsed:: true
+		- example file
+			- {{video https://www.youtube.com/watch?v=E3U6MsdBalg}}
+		- convert and download YouTube video as audio file (e.g. `mp3`)
+			- using, e.g.: https://v4.mp3youtube.cc
+		- transcribe audio file using Whisper
+			- using, e.g.: https://huggingface.co/spaces/Xenova/whisper-web
+		- create corpus
+			- upload your `txt` file(s)
+		- browse and analyse your transcripts
+			- ![image.png](../assets/image_1716500831288_0.png)
