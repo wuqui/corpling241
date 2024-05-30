@@ -4,14 +4,13 @@ id:: 661fc639-a406-4c55-b596-e0d9a0caed09
 | 2024-04-19 | [[01 – Organisation and introduction]] |
 | 2024-04-26 | [[02 – Sketch Engine]] |
 | 2024-05-03 | [[03 – Lexis]] |
-| 2024-05-10 | [[04 – Morphology 1]]                        |
+| 2024-05-10 | [[04 – Morphology 1]] |
 | 2024-05-17 | [[05 – Morphology 2]] |
 | 2024-05-24 | [[06 – Creating corpora]] |
-| 2024-05-31 | Research projects and term papers |
-| 2024-06-07 | Syntax                            |
-| 2024-06-14 | Syntax                            |
-| 2024-06-21 | Linguistic variation              |
-| 2024-06-28 | Linguistic variation              |
-| 2024-07-05 | Language change                   |
-| 2024-07-12 | Language change                   |
-| 2024-07-19 | Wrap-up                           |
+| 2024-06-07 | Syntax |
+| 2024-06-14 | Research projects and term papers |
+| 2024-06-21 | Linguistic variation |
+| 2024-06-28 | Linguistic variation |
+| 2024-07-05 | Language change |
+| 2024-07-12 | Language change |
+| 2024-07-19 | Wrap-up |
