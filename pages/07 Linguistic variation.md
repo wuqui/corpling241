@@ -43,12 +43,11 @@
 		- semantic/functional change
 			- {{embed ((646c9bdd-a595-46b1-a2c5-58d66fcb592b))}}
 - [[practice]]
-  collapsed:: true
-	- building on [[06 Syntax]]
+	- building on [[07 Syntax]]
+	  collapsed:: true
 		- {{embed ((646c8de9-6e1a-4e34-a604-12ad00520bf6))}}
 	- compare the use of the construction between authors
 	  id:: 647f42de-e921-4037-85e9-7d51779e71de
-	  collapsed:: true
 		- corpus: [[Gutenberg English 2020]]
 		- authors
 		  id:: 647f139f-fefe-4c6d-90bf-90f5b2a1c5ff

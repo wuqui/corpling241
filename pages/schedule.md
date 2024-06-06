@@ -7,7 +7,7 @@ id:: 661fc639-a406-4c55-b596-e0d9a0caed09
 | 2024-05-10 | [[04 – Morphology 1]] |
 | 2024-05-17 | [[05 – Morphology 2]] |
 | 2024-05-24 | [[06 – Creating corpora]] |
-| 2024-06-07 | Syntax |
+| 2024-06-07 | [[07 Syntax]] |
 | 2024-06-14 | Research projects and term papers |
 | 2024-06-21 | Linguistic variation |
 | 2024-06-28 | Linguistic variation |

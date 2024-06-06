@@ -2,7 +2,7 @@
 	- ## frequency-based analysis of clippings
 	  collapsed:: true
 		- {{embed ((645a1b1f-99b5-43c5-be5a-23f355169129))}}
-	- ## studying [[semantics]] in the [[enTenTen20]] corpus
+	- studying [[semantics]] in the [[enTenTen20]] corpus
 	  id:: 1e44dc00-0557-4672-9187-6986cf52b3e7
 		- theoretical background on [[collocations]]
 		  collapsed:: true
