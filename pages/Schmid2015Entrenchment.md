@@ -23,12 +23,16 @@
 		- *the thing is that […]*
 		- *the worries are that […]*
 	- corpus attestation
+	  collapsed:: true
 		- ![image.png](../assets/image_1684834536931_0.png){:height 80, :width 540}
 		  id:: 646c88e8-8923-4244-8457-d4791a56e7a0
+		  collapsed:: true
 		  p. 586
 	- analysis in terms of [[Construction Grammar]]
+	  collapsed:: true
 		- ![image.png](../assets/image_1684834699012_0.png)
 		  id:: 646c898a-23b1-46e0-82ea-39c4e1ca833e
+		  collapsed:: true
 		  (p. 586)
 - [[EC-Model]]
   id:: 647f0619-8bfb-42b3-b4af-607eb44184b2

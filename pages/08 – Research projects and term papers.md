@@ -1,20 +1,36 @@
-- tool tip for OCR
-	- free online tool for Optical Character Recognition: https://brandfolder.com/workbench/extract-text-from-image
-- creating corpora
-  collapsed:: true
-	- {{embed ((64b64be4-fda2-4bca-9e30-0251b4b6ba53))}}
-- assessment requirements
-  collapsed:: true
-	- Studien-/Prüfungsordnung
-		- {{embed ((646c7ffd-e8e8-43a1-811d-c320b424a419))}}
-	- assessment types
-		- assessment types
-	- Thesenpapiere
+- assessment
+	- requirements
+	  collapsed:: true
+		- {{embed ((661fc639-7261-4ae1-bdcb-379819743a7d))}}
+	- Thesenpapier
+	  collapsed:: true
 		- {{embed [[Thesenpapier]]}}
-	- Hausarbeiten
+	- Hausarbeit
+	  collapsed:: true
 		- {{embed [[Hausarbeit]]}}
-	- submission of term papers
-		- {{embed ((64b64084-de5a-42ee-95b5-ef5dae2e9ef2))}}
+- [[term paper consulting]]
+	- dates
+	  collapsed:: true
+		- Tue, 30. August
+			- 10:00
+		- Thu, 1. September
+			- 14:00
+		- Tue, 6. September
+			- 14:00
+		- Thu, 8. September
+			- 10:00
+	- Zoom meeting
+	  collapsed:: true
+		- https://lmu-munich.zoom.us/j/5385530182?pwd=SE5iZDJGQlZ1V3dpN2Q4NW45WjF5Zz09
+		- Meeting ID: 538 553 0182
+		- Passcode: 531379
+	- registration: beforehand via mail
+	- information required before: one day before the meeting via email
+	  collapsed:: true
+		- research questions and hypotheses
+		- data and method
+		- table of contents
+		- bibliography
 - [[term papers]] and research projects
 	- goal
 	  collapsed:: true
@@ -22,35 +38,15 @@
 		- empirical study
 		- using corpus data
 		- using corpuslinguistic methods
-	- [[term paper consulting]]
-	  collapsed:: true
-		- meeting on Zoom
-			- https://lmu-munich.zoom.us/j/5385530182?pwd=SE5iZDJGQlZ1V3dpN2Q4NW45WjF5Zz09
-			- Meeting ID: 538 553 0182
-			- Passcode: 531379
-		- dates
-			- [[Mon, 31.07.2023]]
-				- 17:00
-			- [[Tue, 01.08.2023]]
-				- 09:00
-			- [[Thu, 10.08.2023]]
-				- 14:00
-			- [[Fri, 11.08.2023]]
-				- 10:00
-		- please register beforehand via mail
-		- information required one day before the meeting via email
-			- research questions and hypotheses
-			- data and method
-				- which data are you using and how are you analysing them?
-			- table of contents
-			- bibliography
 	- [[topic]]
 	  collapsed:: true
 		- What is a topic?
+		  collapsed:: true
 			- a more general account of what your are interested in
 			- a vague formulation of your project
 			- the area and discipline you are working in
 		- What is a good topic?
+		  collapsed:: true
 			- is not too general but also not too specific
 			- should have further relevance for linguistics
 			- includes new aspects based on state of the art in the relevant theories
@@ -67,24 +63,30 @@
 	- research questions and hypotheses
 	  collapsed:: true
 		- how to find RQs
+		  collapsed:: true
 			- from previous literature
+			  collapsed:: true
 				- by coming across a suggestion for desiderata / unanswered questions
 				- by replicating someone else's work
 				- by identifying a gap, i.e. something that has not yet been asked
 			- from observation
 			- from own empirical findings within the study
 		- Which [[topic]] do I want to work on?
+		  collapsed:: true
 			- Is it broad enough to be interesting?
 			- Is it narrow enough to be doable?
 			- Does it have a strong enough linguistic focus?
 		- Which [[research question]] do I want to work on?
+		  collapsed:: true
 			- Is it broad enough to be interesting?
 			- Is it narrow enough to be doable?
 			- Does it have a strong enough linguistic focus?
 		- What are my [hypotheses]([[hypotheses]])?
+		  collapsed:: true
 			- What do I expect the outcome of my study to be?
 			- Why do I expect these results? (e.g. previous studies, theoretical models)
 		- How does my research question relate to [previous work]([[references]])?
+		  collapsed:: true
 			- Has there been previous work on this? From which fields?
 			- Where lies the contribution of my project?
 		- Which [data]([[data]]) could I use to study my research question?
@@ -115,6 +117,7 @@
 				- Bayerische Staatsbibliothek (BSB)
 				  collapsed:: true
 					- [OPAC](https://opacplus.bsb-muenchen.de/metaopac/start.do)
+					  collapsed:: true
 						- ![image.png](../assets/image_1689674695861_0.png)
 			- web
 			  collapsed:: true
@@ -129,6 +132,7 @@
 			- ‘dark’ web
 			  collapsed:: true
 				- I can't recommend using these platforms ...
+				  collapsed:: true
 					- LibGen
 					- SciHub
 			- research network platforms
@@ -138,44 +142,59 @@
 			- ‘Schneeballprinzip’
 			  collapsed:: true
 				- Find a good, (recent) relevant reference to a topic.
+				  collapsed:: true
 					- Often handbooks provide a high-quality, dense overview.
 				- Check its references.
 				- Check the references’ references.
 			- [[AI]]-assisted services
 			  collapsed:: true
 				- [elicit.org](https://elicit.org/)
+				  collapsed:: true
 					- ![image.png](../assets/image_1689674796868_0.png){:height 335, :width 629}
 		- citing references
+		  collapsed:: true
 			- guides
+			  collapsed:: true
 				- [Stilblatt](https://www.anglistik.uni-muenchen.de/service_downloads/allgemeine_handouts/stilblatt.pdf) Anglistik LMU
 				  id:: ebb0f4e9-79ea-45cf-ab72-66f9a22b9276
+				  collapsed:: true
 				- [Chicago Author-Date Style](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html)
 				  id:: e7fd4c4a-1665-4c1a-909a-21ef90ebe186
+				  collapsed:: true
 				- [Unified Style Sheet for Linguistics](https://www.linguisticsociety.org/resource/unified-style-sheet)
 				  id:: 6625d898-422c-4675-8191-7d57b9a40929
+				  collapsed:: true
 				- [APA](https://libguides.murdoch.edu.au/APA)
 			- in-text citations
+			  collapsed:: true
 				- usually you should use an author-date format
+				  collapsed:: true
 					- e.g. “Here’s an interesting quote.” (Schmid 2020: 420)
 					- recommended styles
+					  collapsed:: true
 						- ((ebb0f4e9-79ea-45cf-ab72-66f9a22b9276))
 						- ((e7fd4c4a-1665-4c1a-909a-21ef90ebe186))
 						- ((6625d898-422c-4675-8191-7d57b9a40929))
 			- bibliography
+			  collapsed:: true
 				- needs to be consistent
 				- needs to follow one of the style guides recommended above
 				- must only contain sources you have cited in your paper
 		- managing references
+		  collapsed:: true
 			- manually
+			  collapsed:: true
 				- recommendation: maintain **1** file with all your bibliographic information
 			- using tools
+			  collapsed:: true
 				- my recommendation: [Zotero](https://www.zotero.org/)
 				- other tools
+				  collapsed:: true
 					- [Citavi](https://citavi.com/)
 					- [EndNote](https://endnote.com/)
 					- [Mendeley](https://www.mendeley.com/)
 	- structure
-	  id:: 64b64be4-0121-44a0-ba42-f61cd09ae5dc
+	  collapsed:: true
 		- Introduction
 		  collapsed:: true
 			- This section should provide an overview of the topic, the context, and the relevance of the research. It should also include the research question or hypothesis, and a brief summary of what the paper will cover.
@@ -229,21 +248,16 @@
 		- spelling and grammar checking
 		  collapsed:: true
 			- [LanguageTool](https://languagetool.org/)
+			  collapsed:: true
 				- LanguageTool is a multilingual spelling, style, and grammar checker that helps correct or paraphrase texts. It offers a wide range of language support and can be integrated into various platforms like browsers, word processors, and email clients. LanguageTool is particularly useful for checking grammar and spelling in over 20 languages, and it also provides style and punctuation suggestions. However, as with any automated tool, it's important to review and understand the changes it suggests to ensure they align with your original intent and academic standards.
 			- [Grammarly](https://www.grammarly.com/)
+			  collapsed:: true
 				- Grammarly is a widely-used digital writing assistant that helps you eliminate writing errors and find the perfect words to express yourself. It offers real-time grammar, spelling, and punctuation checks, along with style improvements to ensure your writing is clear and engaging. Grammarly also provides detailed explanations for all your mistakes and weekly progress reports to help you understand your strengths and areas for improvement. It's a great tool for academic writing, but remember to review its suggestions to ensure they fit the context of your work.
 		- [[AI]]-based tools
 		  collapsed:: true
 			- [DeepLWrite](https://www.deepl.com/write)
 			- [ChatGPT](https://openai.com/chatgpt)
 			  collapsed:: true
-				- ChatGPT by OpenAI is an AI model that can generate human-like text based on the input it's given. It can be used as a tool to help with brainstorming, drafting and editing content, and learning new topics. It's capable of understanding context and providing detailed responses, making it a useful tool for academic writing. However, it's important to use it as a tool to assist your writing process, rather than relying on it to generate your entire paper. Always review and edit the suggestions provided by ChatGPT to ensure they meet your academic standards.
-			- [QuillBot](https://quillbot.com/)
-			  collapsed:: true
-				- QuillBot is an AI-powered paraphrasing tool that can help students and professionals rewrite, edit, and change the tone of their text to improve clarity and comprehension. It can be used to rephrase any text in a variety of ways, ensuring you use the appropriate vocabulary, tone, and style for any occasion. It also offers a grammar checker, a plagiarism checker, and a summarizer among other features. However, it's important to use it responsibly and ensure that the final work is original and properly cited.
-			- [PaperPal](https://paperpal.com/)
-			  collapsed:: true
-				- PaperPal is an advanced AI grammar checker and online academic writing tool that identifies language errors and provides instant, in-depth suggestions to help you polish your manuscript. It offers real-time, subject-specific language suggestions that help you write better and faster. It can check for key rejection parameters, identify and improve problem areas, and provide unlimited revisions and rechecks. It's a great tool for delivering high-quality research articles faster with suggestions to improve language, grammar, and readability as you write. However, always remember to review and understand the changes suggested by the tool to ensure they align with your original intent.
 - corpuslinguistic topics and research questions
 	- theoretical frameworks
 	  collapsed:: true
@@ -260,8 +274,8 @@
 		- [[distributional hypothesis]]
 			- ((645a20e9-f7b0-478b-bd31-d1fa07fdd451))
 	- research topics and questions
+	  collapsed:: true
 		- broad research foci
-		  collapsed:: true
 			- [[linguistic variation]]
 			  collapsed:: true
 				- overview
@@ -278,20 +292,23 @@
 						- ((64b64be4-e5a6-4ddf-9483-3cc5b0e458f5))
 				- [[geographical variation]]
 				  collapsed:: true
-					- ((64b64be4-1e12-4771-9746-a60eab859682))
+					- frequency by country in the [[NOW corpus]]
+						- `fall_nn`
+							- ![image.png](../assets/image_1718316033126_0.png)
+						- `autumn_nn`
+							- ![image.png](../assets/image_1718316154635_0.png)
 			- [[language change]]
 			  collapsed:: true
-				- ((64b64be4-e5a6-4ddf-9483-3cc5b0e458f5))
+				- ![image.png](../assets/image_1718316357300_0.png)
 		- domains of language
 			- [[lexis]]
 				- [[neologisms]]
 					- ((64b64be4-1988-49fa-b124-e67e4ea3c00e))
 				- [[clippings]]
-					- ((64b64be4-04fb-41d4-a2e8-6317d8ea9a3d))
+					- ![image.png](../assets/image_1718316488153_0.png)
 			- [[morphology and word-formation]]
 				- {{embed ((64b64be4-310c-429c-bc18-9975c6721409))}}
 				- ((645a24aa-aa0c-4e46-87c3-3afc287b2a9a))
-				- ((64b64be4-c0d9-4cdc-9fb7-294f9ca3ba27))
 			- [[syntax]]
 				- `the N BE that` ([[Schmid2015Entrenchment]])
 					- ((646c88e8-8923-4244-8457-d4791a56e7a0))
@@ -299,8 +316,9 @@
 				- modal verbs
 					- ((64b64be4-e5a6-4ddf-9483-3cc5b0e458f5))
 			- [[semantics]]
-				- ![image.png](../assets/image_1684832735628_0.png)
+				- ((64b64be4-745d-488a-8e25-9f1f88b74ae1))
 	- data and corpora
+	  collapsed:: true
 		- [[Sketch Engine]]
 			- [[Gutenberg English 2020]]
 			- [[EEBO]]
@@ -311,9 +329,11 @@
 			- [[COCA]]
 			- [[NOW]]
 	- methods
+	  collapsed:: true
 		- [[frequency]]
 		- [[collocations]]
 		- [[word sketches]]
 	- further examples and case studies: see [[Stefanowitsch2020Corpus]]
 	- further reading
+	  collapsed:: true
 		- {{embed ((64b64be4-0efc-441d-aec2-f093845df874))}}

@@ -119,7 +119,6 @@
 				- ![image.png](../assets/image_1684234987239_0.png)
 				- remove `Grand Total` by right-click → remove
 			- insert `Pivot Chart`
-			  collapsed:: true
 				- ![image.png](../assets/image_1684235134140_0.png)
 				  id:: 64b64be4-c0d9-4cdc-9fb7-294f9ca3ba27
 				  collapsed:: true

@@ -1,7 +1,7 @@
 # linguistic variation
 collapsed:: true
 	- {{embed ((64883efe-ba47-44b0-9fec-5646976a8d4e))}}
-- # how to use [[english-corpora.org]]
+- how to use [[english-corpora.org]]
   id:: 64917fe0-a4ce-4950-b143-095414e022e3
 	- overview of corpora
 	  collapsed:: true
@@ -36,7 +36,7 @@ collapsed:: true
 		- ![image.png](../assets/image_1687261600943_0.png)
 		- ![image.png](../assets/image_1687261574344_0.png)
 - # language change
-	- ## [[lexical innovation]] and [[language change]] in the use of [[blends]] (→ [[Hilpert2023Meaning]])
+	- [[lexical innovation]] and [[language change]] in the use of [[blends]] (→ [[Hilpert2023Meaning]])
 	  id:: 64917fe7-8500-4261-99bc-f50ff0d481d4
 	  collapsed:: true
 		- theoretical background

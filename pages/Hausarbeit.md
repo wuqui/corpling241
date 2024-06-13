@@ -1,5 +1,5 @@
 - [[deadline]]
-	- TBA
+	- 16 September, 2024
 	  id:: 64b6402f-c79e-4786-8b5a-14f113367f12
 - format
 	- $\approx$ 10–12 pages

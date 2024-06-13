@@ -43,7 +43,7 @@
 		- semantic/functional change
 			- {{embed ((646c9bdd-a595-46b1-a2c5-58d66fcb592b))}}
 - [[practice]]
-	- building on [[07 Syntax]]
+	- building on [[07 – Syntax]]
 	  collapsed:: true
 		- {{embed ((646c8de9-6e1a-4e34-a604-12ad00520bf6))}}
 	- compare the use of the construction between authors

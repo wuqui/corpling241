@@ -79,6 +79,7 @@
 				- use descriptive file names: e.g. `1860_dickens_great-expectations.txt`
 				- sidenote: `2024-05-24_paper.docx`
 		- create corpus in [[Sketch Engine]]
+		  collapsed:: true
 			- initialise corpus
 				- ![image.png](../assets/image_1689073077636_0.png)
 			- upload files
@@ -90,6 +91,7 @@
 					- note that you can and should use bulk editing
 			- compile your corpus
 		- corpus information
+		  collapsed:: true
 			- overview
 				- ![image.png](../assets/image_1689073961699_0.png)
 			- text type distributions
@@ -104,7 +106,6 @@
 			- you should find it under its name `qw-corpling-gutenberg`
 			- you should be able to add files and edit metadata
 	- from the web
-	  collapsed:: true
 		- [Sketch Engine documentation](https://www.sketchengine.eu/guide/create-a-corpus-from-the-web/)
 		  id:: 64ad1ab6-c075-43b4-97ce-69e469244f39
 		  collapsed:: true

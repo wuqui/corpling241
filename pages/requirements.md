@@ -11,7 +11,11 @@
 		- your individual study programme and module combinations
 		- on how many credits you aim to get in this course
 		- please check which option and precise requirements apply to you in the Studien-/Prüfungsordnung
+	- [term paper]([[term papers]]) types
+		- [[Thesenpapier]]
+		- [[Hausarbeit]]
 	- overview
+	  id:: 6626c4c3-59e9-4be1-9410-a2bf70869eac
 		- | Programme | Module     | ECTS | PaperType    | CharsMin | CharsMax |
 		  |-----------|------------|------|--------------|----------|---------:|
 		  | LA Gy     | P 12.2     | 6    | term paper   | 34,000   |   51,000 |
