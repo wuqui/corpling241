@@ -6,14 +6,15 @@
 	- some preparatory reading/analyses
 - assessment
   id:: 661fc639-7261-4ae1-bdcb-379819743a7d
+  collapsed:: true
 	- requirements depend on
 	  id:: 646c7ffd-e8e8-43a1-811d-c320b424a419
 		- your individual study programme and module combinations
 		- on how many credits you aim to get in this course
 		- please check which option and precise requirements apply to you in the Studien-/Prüfungsordnung
 	- [term paper]([[term papers]]) types
-		- [[Thesenpapier]]
-		- [[Hausarbeit]]
+		- [[Thesenpapier]] / thesis paper
+		- [[Hausarbeit]] / term paper
 	- overview
 	  id:: 6626c4c3-59e9-4be1-9410-a2bf70869eac
 		- | Programme | Module     | ECTS | PaperType    | CharsMin | CharsMax |
