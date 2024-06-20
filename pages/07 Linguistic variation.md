@@ -1,11 +1,4 @@
-- [[assessment]] deadlines
-  collapsed:: true
-	- [[Hausarbeit]]
-		- ((64b6402f-c79e-4786-8b5a-14f113367f12))
-	- [[Thesenpapier]]
-		- ((64b64045-ed4d-4590-b6af-e49f8ae75011))
 - linguistic variation
-  collapsed:: true
 	- types of [[linguistic variation]] and [[varieties]]
 	  id:: 647ee07c-6f9e-40df-9e07-da25830ac199
 	  collapsed:: true
@@ -56,9 +49,7 @@
 			- [[Samuel Richardson]]
 			- [[Charlotte Brontë]]
 		- frequency of the construction: [relative frequency]([[frequency/relative]]) (pmw: per million words)
-		  collapsed:: true
 			- [[Sketch Engine]] analysis
-			  collapsed:: true
 				- for [[Samuel Pepys]]
 					- ![image.png](../assets/image_1686049252238_0.png)
 					- ![image.png](../assets/image_1686049285961_0.png)
@@ -66,23 +57,18 @@
 				- gather data for all authors (see [here](((647f139f-fefe-4c6d-90bf-90f5b2a1c5ff))))
 				- make a table
 				- make bar charts
-				  collapsed:: true
 					- for [absolute frequency]([[frequency/absolute]]): `Number of hits`
 					- for [relative frequency (pmw)]([[frequency/relative]]): `Number of hits per million tokens`
 		- semantic variation: do these authors show semantic/functional differences in their use of the construction? → nouns within the construction (e.g. *thing* in *the thing is that*): see [here](((646c8ab7-3d11-43d3-89d7-00d7944ebe60)))
-		  collapsed:: true
 			- for [[Samuel Pepys]]
 				- ![image.png](../assets/image_1686049062398_0.png)
 				- results by [[Schmid2015Entrenchment]]
-				  collapsed:: true
 					- ![image.png](../assets/image_1686049092430_0.png)
 					  collapsed:: true
 						- p. 610
 			- investigate corpus attestations to get a sense of the semantic differences
 			- take notes summarising the observed differences
-			  collapsed:: true
 				- ((64886ad2-420f-40e7-933e-06a9ab7469f8))
 	- further study: [[diachronic]] change
-	  collapsed:: true
 		- Does the semantic profile of the construction change over time (when analysed across all authors)?
 		- How has this change evolved in later stages – more recent corpora like [[COHA]]?

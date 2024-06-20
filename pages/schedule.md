@@ -9,7 +9,7 @@ id:: 661fc639-a406-4c55-b596-e0d9a0caed09
 | 2024-05-24 | [[06 – Creating corpora]] |
 | 2024-06-07 | [[07 – Syntax]] |
 | 2024-06-14 | [[08 – Research projects and term papers]] |
-| 2024-06-21 | Linguistic variation |
+| 2024-06-21 | [[09 – Linguistic variation: tag questions]] |
 | 2024-06-28 | Linguistic variation |
 | 2024-07-05 | Language change |
 | 2024-07-12 | Language change |
