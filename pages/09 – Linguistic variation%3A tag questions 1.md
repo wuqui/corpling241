@@ -17,17 +17,19 @@
 		  logseq.order-list-type:: number
 	- types of canonical question tags
 		- examples
-		  collapsed:: true
+		  id:: 66743d58-c111-47c1-bd70-561e0a8bdde4
 			- ![tag-questions-canonical.png](../assets/tag-questions-canonical_1718893745563_0.png)
+			  id:: 66743cb0-b919-40e1-8d37-b08f7be8ec84
 		- syntactic structure
-		  collapsed:: true
+		  id:: 66743d1c-a704-49d7-844d-58bd2e17b9c4
 			- This type of tag question consists of two clauses,
 				- an anchor
 				- and a tag.
 			- The **subject**
 				- in the anchor can be
 					- a full noun phrase,
-					- a pronoun, or *there*,
+					- a pronoun,
+					- or *there*,
 				- but in the tag, it must be either
 					- a personal pronoun,
 					- *there*, or
@@ -46,6 +48,7 @@
 			- **constant positive polarity**, as in (3);
 			- or **constant negative polarity**, as in (4), a rare type whose existence has occasionally been questioned (see e.g., Quirk et al. 1985, 813) but of which we have found some genuine examples.”
 	- constraints
+	  collapsed:: true
 		- preceding *wh*-words
 		  collapsed:: true
 			- “One constraint was to disallow instances with a wh-word (or a wh-word followed by a noun) immediately preceding the potential tag as in (6) and (7):
@@ -68,27 +71,22 @@
 	  collapsed:: true
 		- ![tag-questions-functions-comparison.png](../assets/tag-questions-functions-comparison_1718894372251_0.png)
 	- results
+	  id:: 66743ed7-f87f-47be-a55f-6b4e1b3a931a
 		- [[British English]] vs [[American English]]
-		  collapsed:: true
+		  id:: 667492a1-9cfb-4b25-a65c-45105a76f722
 			- ![image.png](../assets/image_1718915756921_0.png)
 		- polarity
-		  collapsed:: true
 			- Based on two samples of 1,000 instances each, we found that positive–negative polarity tag constructions are indeed the most frequent choice in both varieties, accounting for 75 percent of the totals in British and 69 percent in American English.” (p. 289)
 			- ![image.png](../assets/image_1718915847214_0.png)
 		- auxiliary use
-		  collapsed:: true
 			- ![image.png](../assets/image_1718916183635_0.png)
 		- pronouns
-		  collapsed:: true
 			- ![image.png](../assets/image_1718917886255_0.png)
 		- phrases
-		  collapsed:: true
 			- ![image.png](../assets/image_1718917936267_0.png)
 		- pragmatic functions
-		  collapsed:: true
 			- ![Pasted image 20240618163915.png](../assets/Pasted_image_20240618163915_1718894409605_0.png)
 		- sociolinguistic variation
-		  collapsed:: true
 			- [[gender]]
 				- ![Pasted image 20240618164013.png](../assets/Pasted_image_20240618164013_1718894531355_0.png)
 			- [[age]]
@@ -98,18 +96,40 @@
 - [[practice]]: study question tags in the [BNC 2014 Spoken]([[BNC/2014/spoken]]) using [[Sketch Engine]]
 	- shared [[Microsoft Excel]] sheet: https://1drv.ms/x/s!AvkgNVl9yS6aokXQ2KHBstYsWunQ
 	- retrieve attestations of question tags
-	  collapsed:: true
+	  id:: 66743b58-d38d-44b2-afb1-2ec6ae992520
 		- create and refine a query to collect question tags
-		  collapsed:: true
 			- ![image.png](../assets/image_1718917111793_0.png)
 			- `[tag="MD" | lemma="be" | lemma="do" | lemma="have"] [word="n't"]?  [tag="PP.?"] [word="\?"]`
 			- https://ske.li/questiontagsbnc
-		- export results to Excel
-		- evaluate and refine based on false positive rate (based on random samples)
-		  collapsed:: true
-			- ![image.png](../assets/image_1718894882588_0.png){:height 414, :width 389}
+		- evaluate false positive rate
+			- use [[Sketch Engine]] download a [[random sample]] of 50 hits
+			- use [[Microsoft Excel]] to annotate and analyse it
+				- model sheet: https://1drv.ms/x/s!AvkgNVl9yS6aokmqDbTz5BmfbU6C
+				- add a column named `label`
+				- annotate each attestation with
+				  collapsed:: true
+					- `0`: no question tag → false positive
+					- `1`: question tag → true positive
+				- think about how you could reduce false positives
+				  collapsed:: true
+					- either in SkE by refining your query
+					  collapsed:: true
+						- exclude instancest at utterances start
+						  collapsed:: true
+							- ```
+							  <u> []{1,} 1:[tag="MD" | lemma="be" | lemma="do" | lemma="have"] [word="n't"]? [tag="PP.?"] [word="\?"] within <u/>
+							  ```
+						- exclude *wh*-words preceding the pattern (like *when* and *where*)
+						  collapsed:: true
+							- ```
+							  <u> []{1,} [lemma!="where|who|which|when"] [tag="MD" | lemma="be" | lemma="do" | lemma="have"] [word="n't"]?  [tag="PP.?"] [word="\?"]  within <u/>
+							  ```
+					- or in Excel using filters (see model sheet)
+				- analyse false positive rate
+				  collapsed:: true
+					- ![image.png](../assets/image_1718894882588_0.png){:height 414, :width 389}
 	- determine most frequent question tag forms
-	  collapsed:: true
+	  id:: 66744028-0f26-45cc-85c0-c1f3ba3a40cf
 		- individual phrases (e.g. *is n't it* vs *are n't you*)
 		- most frequent pronouns
 		- most frequent verbs
@@ -117,13 +137,16 @@
 			- `[tag="V.*" | tag="MD"]  within [tag="MD" | lemma="be" | lemma="do" | lemma="have"] [word="n't"]?  [tag="PP.?"] [word="\?"]`
 			- https://ske.li/questiontagsverbs
 	- analyse sociolinguistic variation (→ frequency by `Text Type`)
-		- age
-		- gender
-		- social grade
-		- education
+	  id:: 66744141-74a7-4634-9992-8da136218bf5
+		- age: `Age range`
+		- gender: `Gender`
+		- social grade: `Class: Social grade`
+		- education: `Highest qualification`
 	- investigate polarity
+	  id:: 66749324-127e-4a2b-93eb-de7f5e215130
 	  collapsed:: true
-		- `[tag="V.*"] [word="n't" | word="not"] []{1,} [tag="MD" | lemma="be" | lemma="do" | 
-		  lemma="have"] [word="n't"]?  [tag="PP.?"] [word="\?"]  within <u/>`
+		- ```
+		  [tag="V.*"] [word="n't" | word="not"] []{1,} [tag="MD" | lemma="be" | lemma="do" | 
+		  lemma="have"] [word="n't"]?  [tag="PP.?"] [word="\?"]  within <u/>
+		  ```
 		- https://ske.li/questiontagspolarity
-	-
