@@ -105,35 +105,28 @@
 			- use [[Sketch Engine]] download a [[random sample]] of 50 hits
 			- use [[Microsoft Excel]] to annotate and analyse it
 				- model sheet: https://1drv.ms/x/s!AvkgNVl9yS6aokmqDbTz5BmfbU6C
-				- add a column named `label`
+				- add a column named `Label`
 				- annotate each attestation with
-				  collapsed:: true
 					- `0`: no question tag → false positive
 					- `1`: question tag → true positive
 				- think about how you could reduce false positives
-				  collapsed:: true
 					- either in SkE by refining your query
-					  collapsed:: true
 						- exclude instancest at utterances start
-						  collapsed:: true
 							- ```
 							  <u> []{1,} 1:[tag="MD" | lemma="be" | lemma="do" | lemma="have"] [word="n't"]? [tag="PP.?"] [word="\?"] within <u/>
 							  ```
 						- exclude *wh*-words preceding the pattern (like *when* and *where*)
-						  collapsed:: true
 							- ```
 							  <u> []{1,} [lemma!="where|who|which|when"] [tag="MD" | lemma="be" | lemma="do" | lemma="have"] [word="n't"]?  [tag="PP.?"] [word="\?"]  within <u/>
 							  ```
 					- or in Excel using filters (see model sheet)
 				- analyse false positive rate
-				  collapsed:: true
 					- ![image.png](../assets/image_1718894882588_0.png){:height 414, :width 389}
 	- determine most frequent question tag forms
 	  id:: 66744028-0f26-45cc-85c0-c1f3ba3a40cf
 		- individual phrases (e.g. *is n't it* vs *are n't you*)
 		- most frequent pronouns
 		- most frequent verbs
-		  collapsed:: true
 			- `[tag="V.*" | tag="MD"]  within [tag="MD" | lemma="be" | lemma="do" | lemma="have"] [word="n't"]?  [tag="PP.?"] [word="\?"]`
 			- https://ske.li/questiontagsverbs
 	- analyse sociolinguistic variation (→ frequency by `Text Type`)
@@ -141,10 +134,11 @@
 		- age: `Age range`
 		- gender: `Gender`
 		- social grade: `Class: Social grade`
+			- [tag-questions_social-grade.xlsx](../assets/tag-questions_social-grade_1719870061287_0.xlsx)
+			- [tag-questions_social-grade.xlsx](file://./assets/tag-questions_social-grade_1719870061287_0.xlsx)
 		- education: `Highest qualification`
 	- investigate polarity
 	  id:: 66749324-127e-4a2b-93eb-de7f5e215130
-	  collapsed:: true
 		- ```
 		  [tag="V.*"] [word="n't" | word="not"] []{1,} [tag="MD" | lemma="be" | lemma="do" | 
 		  lemma="have"] [word="n't"]?  [tag="PP.?"] [word="\?"]  within <u/>
