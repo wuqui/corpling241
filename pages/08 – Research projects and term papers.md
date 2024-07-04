@@ -291,7 +291,7 @@
 						- ((64b64be4-92a2-45aa-a795-5c79e22375dd))
 					- modal verbs
 					  collapsed:: true
-						- ((64b64be4-e5a6-4ddf-9483-3cc5b0e458f5))
+						- ![image.png](../assets/image_1689070302563_0.png)
 				- [[geographical variation]]
 				  collapsed:: true
 					- frequency by country in the [[NOW corpus]]
@@ -323,7 +323,7 @@
 					- ((64b64be5-52fd-4eb6-8a40-85d03b955b62))
 				- modal verbs
 				  collapsed:: true
-					- ((64b64be4-e5a6-4ddf-9483-3cc5b0e458f5))
+					- ![image.png](../assets/image_1689070302563_0.png)
 			- [[semantics]]
 			  collapsed:: true
 				- ((64b64be4-745d-488a-8e25-9f1f88b74ae1))

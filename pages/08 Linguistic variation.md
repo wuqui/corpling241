@@ -1,5 +1,5 @@
-- # interindividual variation
-  collapsed:: true
+# interindividual variation
+collapsed:: true
 	- {{embed ((647f42de-e921-4037-85e9-7d51779e71de))}}
 - # `the N BE that` in Present-Day English (PDE)
   collapsed:: true
@@ -34,7 +34,6 @@
 		- In which text types is the construction used most frequently?
 		  id:: 64883efe-ba47-44b0-9fec-5646976a8d4e
 			- query for the construction
-			  collapsed:: true
 				- use the [[CQL]] query: `[lemma="the"] [tag="N.*"] [lemma="be"] [lemma="that"]`
 				- and limit your search to the following `Genre` text types: `blog`, `discussion`, `fiction`, `legal`, `news`, `reference/encyclopedia`.
 				  collapsed:: true
