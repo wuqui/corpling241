@@ -16,29 +16,29 @@
   (p. 186)
 	- **The [[Brown Corpus]]**
 	  collapsed:: true
-		- This corpus was the first computer-readable general corpus of texts prepared for linguistic research on modern English.
-		- It was compiled by W. Nelson Francis and Henry Kučera at Brown University in the 1960s.
-		- The corpus contains over 1 million words, with 500 samples of 2000+ words each, of running text of edited English prose printed in the United States during the calendar year 1961.
-		- The texts cover a variety of genres, including press (reportage, editorial, review), general prose (religion, skills, trades and hobbies, popular lore, belles lettres, biographies, essays, miscellaneous), learned (science), and fiction (general fiction, mystery and detective fiction, science fiction, adventure and Western, romance and love story, humor)​
+		- This corpus was the **first computer-readable general corpus** of texts prepared for linguistic research on modern English.
+		- It was compiled by W. Nelson Francis and Henry Kučera at Brown University in the **1960s**.
+		- The corpus contains over **1 million words**, with 500 samples of 2000+ words each, of running text of edited English prose printed in the **United States** during the calendar year 1961.
+		- The texts cover a variety of **genres**, including press (reportage, editorial, review), general prose (religion, skills, trades and hobbies, popular lore, belles lettres, biographies, essays, miscellaneous), learned (science), and fiction (general fiction, mystery and detective fiction, science fiction, adventure and Western, romance and love story, humor)​
 		- https://varieng.helsinki.fi/CoRD/corpora/BROWN/
 	- **The [[Lancaster-Oslo/Bergen Corpus]] (LOB Corpus)**
 	  collapsed:: true
-		- This is a one-million-word collection of British English texts, which was compiled in the 1970s.
-		- The corpus was designed to provide a British counterpart to the [Brown Corpus]([[Brown Corpus]]) and uses documents published in the UK in 1961 by British authors.
-		- It also consists of 500 samples each comprising about 2000 words in similar genres to the Brown Corpus.
+		- This is a **1 million word** collection of **British English** texts, which was compiled in the 1970s.
+		- The corpus was designed to provide a British counterpart to the [Brown Corpus]([[Brown Corpus]]) and uses documents published in the UK in **1961** by British authors.
+		- It also consists of 500 samples each comprising about 2000 words in similar **genres** to the Brown Corpus.
 		- Each word in the corpus has been assigned a part-of-speech category​
 		- https://en.wikipedia.org/wiki/Lancaster-Oslo-Bergen_Corpus
 	- **The [[Freiburg-Brown Corpus]] of American English (Frown Corpus)**
 	  collapsed:: true
-		- This corpus, along with its counterpart the [[Freiburg-LOB Corpus]] of British English (FLOB), was begun in 1991 to match the [Brown]([[Brown Corpus]]) and [LOB]([[LOB Corpus]]) corpora as closely as possible in size and composition, but representing the language of the early 1990s.
-		- Like the original Brown and LOB corpora, Frown contains 500 texts of around 2000 words each, distributed across 15 text categories.
-		- The genres covered are the same as in the original Brown and LOB corpora​
+		- This corpus, along with its counterpart the [[Freiburg-LOB Corpus]] of British English (FLOB), was begun in 1991 to match the [Brown]([[Brown Corpus]]) and [LOB]([[LOB Corpus]]) corpora as closely as possible in size and composition, but representing the language of the early **1990s**.
+		- Like the original Brown and LOB corpora, Frown contains 500 texts of around 2000 words each, distributed across **15 text categories**.
+		- The **genres** covered are the same as in the original Brown and LOB corpora​
 		- https://varieng.helsinki.fi/CoRD/corpora/FROWN/basic.html
 	- **The [Freiburg-LOB Corpus]([[Freiburg-LOB Corpus]]) of British English (FLOB)**
 	  collapsed:: true
 		- This corpus is an update of the [LOB corpus]([[LOB Corpus]]) and is part of the ‘Brown family’ of corpora.
 		- The work on the compilation of FLOB began in 1991, and the corpus was intended to match the [Brown]([[Brown Corpus]]) and LOB corpora as closely as possible in size and composition, with the only difference being that they represent the language of the early 1990s.
-		- F-LOB contains 500 texts of around 2000 words each, distributed across the same 15 text categories as the Brown and LOB corpora.
+		- FLOB contains 500 texts of around 2000 words each, distributed across the same 15 text categories as the Brown and LOB corpora.
 		- There are two versions of the F-LOB corpus, the original version and a POS-tagged version​
 		- https://varieng.helsinki.fi/CoRD/corpora/FLOB/index.html
 - “Leech examines the possibility that newly grammaticalizing modal forms may be responsible for the observed decline.” (“The Cambridge Handbook of English Corpus Linguistics”, 2015, p. 186)
