@@ -30,6 +30,7 @@ tags:: [[paper]]
 	- > “This paper uses corpus data in order to study English clippings such as *dorm* (< *dormitory*), *memo* (< *memorandum*), or *quake* (< *earthquake*), which are formed on the basis of existing lexical items from which phonological material is deleted. More specifically, we investigate meaning differences between clippings and their source words. Are there semantic or pragmatic differences between pairs such as dorm and dormitory, and if so, what are they? Is it possible to formulate generalizations that capture how clippings and their source words relate to one another with regard to meaning? How should these relations be described?” (Hilpert et al., 2023, p. 19)
 - [[data]]
   id:: 645a1d76-e12f-450a-86b2-e69ccea0890f
+  collapsed:: true
 	- id:: 646c7ffd-9ec6-4e8d-a179-d516891af48f
 	  > “Our study focuses on a set of 50 English [clippings]([[clipping]]) and their corresponding source words.
 		- ((645a24aa-aa0c-4e46-87c3-3afc287b2a9a))
