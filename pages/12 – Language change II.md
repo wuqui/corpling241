@@ -4,11 +4,13 @@
   id:: 64917fe7-8500-4261-99bc-f50ff0d481d4
 	- background
 		- approach
+		  collapsed:: true
 			- ((646c7ffd-bf32-4ce5-9756-917cc35793c1))
 			- ((646c7ffd-64bb-4d36-b9eb-e4f2494ab615))
 			- ((646c7ffd-caf2-4a96-b8e4-16eedf3cecfd))
 			- ((646c7ffd-bfe5-4944-b360-056be5d512c8))
 		- corpus data
+		  collapsed:: true
 			- ((645a2859-a8d9-42e6-a102-69fd03ed164e))
 		- dataset of blends
 			- {{embed ((646c7ffd-9ec6-4e8d-a179-d516891af48f))}}
@@ -24,5 +26,5 @@
 		- collaborative [[Microsoft Powerpoint]] file: https://1drv.ms/p/s!AvkgNVl9yS6aok8lTi12bVy5q2YG
 - further reading
 	- case studies on how to use corpus linguistics to study language change
-		- [[Biber2015Cambridge]]
-		- [[Stefanowitsch2020Corpus]]
+		- ((646c7ffc-f66b-46f7-a13f-4ac0d8625295))
+		- ((646c7ffd-a738-4949-ae68-bf630c52acc5))
