@@ -6,7 +6,6 @@
 	- some preparatory reading/analyses
 - assessment
   id:: 661fc639-7261-4ae1-bdcb-379819743a7d
-  collapsed:: true
 	- requirements depend on
 	  id:: 646c7ffd-e8e8-43a1-811d-c320b424a419
 		- your individual study programme and module combinations

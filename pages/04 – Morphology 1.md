@@ -2,13 +2,10 @@
   collapsed:: true
 	- {{embed ((6450dc50-0db4-4ce1-a6e5-7440beb8e766))}}
 - fundamentals in [[morphology and word-formation]]
-  collapsed:: true
 	- [morphology]([[morphology]]) vs [word-formation]([[word-formation]])
-	  collapsed:: true
 		- ![Schmid2016-morphology-vs-word-formation.png](../assets/Schmid2016-morphology-vs-word-formation_1683625984509_0.png)
 		  [[Schmid2016EnglishMorphology]]: 15
 	- overview of [word-formation]([[word-formation]]) processes
-	  collapsed:: true
 		- ![image.png](../assets/image_1683626111160_0.png){:height 434, :width 487}
 		  id:: 64b64be4-310c-429c-bc18-9975c6721409
 	- [morphemic word-formation]([[word-formation/morphemic]]) processes
@@ -27,7 +24,6 @@
 			- [[denotational]] [[meaning]]: changes and variation in core meaning
 			- [[connotational]] [[meaning]]: changes and variation in the associative signature of words (e.g. social, stylistic)
 	- [[practice]]: Analyze the word-formation processes involved in the following complex words.
-	  collapsed:: true
 		- example: morphological stemma of *disclaimers*
 			- {{renderer excalidraw, excalidraw-2024-05-10-11-01-15}}
 			- ![image.png](../assets/image_1715356109774_0.png)
@@ -80,7 +76,6 @@
 		- corpus data
 			- ((645a2087-0c80-4a30-838d-52a0d2c3e8fa))
 	- method
-	  collapsed:: true
 		- analysing [[meaning]] based on
 			- [[collocations]]
 			- [[word embeddings]]
@@ -108,22 +103,17 @@
 		- analyse results
 		  id:: 6463603a-25b8-468a-abff-524a6c75fe4f
 			- insert `Table` for range of data
-			  collapsed:: true
 				- ![image.png](../assets/image_1684234466654_0.png)
 			- insert `Pivot Table` for `Table`
 			  id:: 64b64be4-236a-4969-a3ba-f0d1c8234931
-			  collapsed:: true
 				- ![image.png](../assets/image_1684234677459_0.png)
 			- set `Rows`, `Values`, and `Columns`
-			  collapsed:: true
 				- ![image.png](../assets/image_1684234987239_0.png)
 				- remove `Grand Total` by right-click → remove
 			- insert `Pivot Chart`
 				- ![image.png](../assets/image_1684235134140_0.png)
 				  id:: 64b64be4-c0d9-4cdc-9fb7-294f9ca3ba27
-				  collapsed:: true
 	- potential further analyses
-	  collapsed:: true
 		- frequency over time in the [[English Trends (2014–today)]]
 		- frequency by text type in the [[enTenTen21]] corpus
 		- ((1e44dc00-0557-4672-9187-6986cf52b3e7))

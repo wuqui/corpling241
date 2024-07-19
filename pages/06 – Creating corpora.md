@@ -36,7 +36,6 @@
 - [[practice]]: using [[Sketch Engine]]
   id:: 64b64be4-fda2-4bca-9e30-0251b4b6ba53
 	- from documents: [[Gutenberg Project]] corpus
-	  collapsed:: true
 		- example sources
 		  id:: 64ad3535-c326-45d4-87f2-b6fd65ff1f7c
 			- Charles Dickens
@@ -70,6 +69,7 @@
 					  collapsed:: true
 						- "The Facts Concerning the Recent Carnival of Crime in Connecticut" is a short story by Mark Twain. Unfortunately, I couldn't find a detailed summary or the publication year on Wikipedia. However, the story is known for its satirical take on morality. It features the protagonist's encounter with his own conscience, personified as a loathsome creature. The protagonist realizes that by listening to his conscience, he has been led to live a life of excessive guilt and moral restriction. In a twist of events, he manages to eliminate his conscience, leading to a series of immoral acts that he carries out with impunity.
 		- download books from [[Gutenberg Project]]
+		  collapsed:: true
 			- https://www.gutenberg.org/ebooks/
 			- ![image.png](../assets/image_1689071804678_0.png)
 			- ![image.png](../assets/image_1689071852040_0.png)
@@ -106,6 +106,7 @@
 			- you should find it under its name `qw-corpling-gutenberg`
 			- you should be able to add files and edit metadata
 	- from the web
+	  collapsed:: true
 		- [Sketch Engine documentation](https://www.sketchengine.eu/guide/create-a-corpus-from-the-web/)
 		  id:: 64ad1ab6-c075-43b4-97ce-69e469244f39
 		  collapsed:: true

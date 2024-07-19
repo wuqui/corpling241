@@ -9,6 +9,7 @@
 	  collapsed:: true
 		- {{embed [[Hausarbeit]]}}
 - [[term paper consulting]]
+  id:: 661fc638-7b25-4276-9ece-6b15824d186b
 	- dates
 	  collapsed:: true
 		- Tue, 30. July
@@ -36,7 +37,9 @@
 	- goal
 	  collapsed:: true
 		- research question with a linguistic focus
-			- + hypotheses
+		  collapsed:: true
+			- collapsed:: true
+			  + hypotheses
 				- + why? (link to previous work)
 		- empirical study
 		- using corpus data
@@ -44,10 +47,12 @@
 	- [[topic]]
 	  collapsed:: true
 		- What is a topic?
+		  collapsed:: true
 			- a more general account of what your are interested in
 			- a vague formulation of your project
 			- the area and discipline you are working in
 		- What is a good topic?
+		  collapsed:: true
 			- is not too general but also not too specific
 			- should have further relevance for linguistics
 			- includes new aspects based on state of the art in the relevant theories
@@ -62,6 +67,7 @@
 		- must not raise expectations that are not met in the paper
 		- it’s often good to use a subtitle
 	- research questions and hypotheses
+	  id:: 661fc638-0129-4309-88fc-5ba4957fb61e
 	  collapsed:: true
 		- how to find RQs
 		  collapsed:: true
@@ -101,6 +107,7 @@
 				- LMU
 				  collapsed:: true
 					- [OPAC](https://www.ub.uni-muenchen.de/suchen/online-katalog/index.html)
+					  collapsed:: true
 						- ![image.png](../assets/image_1689674671634_0.png)
 					- [databases](https://www.ub.uni-muenchen.de/suchen/datenbanken/index.html)
 					  collapsed:: true
@@ -117,6 +124,7 @@
 				- Bayerische Staatsbibliothek (BSB)
 				  collapsed:: true
 					- [OPAC](https://opacplus.bsb-muenchen.de/metaopac/start.do)
+					  collapsed:: true
 						- ![image.png](../assets/image_1689674695861_0.png)
 			- web
 			  collapsed:: true
@@ -131,6 +139,7 @@
 			- ‘dark’ web
 			  collapsed:: true
 				- I can't recommend using these platforms ...
+				  collapsed:: true
 					- LibGen
 					- SciHub
 			- research network platforms
@@ -155,6 +164,7 @@
 			  collapsed:: true
 				- [Stilblatt](https://www.anglistik.uni-muenchen.de/service_downloads/allgemeine_handouts/stilblatt.pdf) Anglistik LMU
 				  id:: ebb0f4e9-79ea-45cf-ab72-66f9a22b9276
+				  collapsed:: true
 				- [Chicago Author-Date Style](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html)
 				  id:: e7fd4c4a-1665-4c1a-909a-21ef90ebe186
 				  collapsed:: true
@@ -168,6 +178,7 @@
 				  collapsed:: true
 					- e.g. “Here’s an interesting quote.” (Schmid 2020: 420)
 					- recommended styles
+					  collapsed:: true
 						- ((ebb0f4e9-79ea-45cf-ab72-66f9a22b9276))
 						- ((e7fd4c4a-1665-4c1a-909a-21ef90ebe186))
 						- ((6625d898-422c-4675-8191-7d57b9a40929))
@@ -177,16 +188,20 @@
 				- needs to follow one of the style guides recommended above
 				- must only contain sources you have cited in your paper
 		- managing references
+		  collapsed:: true
 			- manually
 			  collapsed:: true
 				- recommendation: maintain **1** file with all your bibliographic information
 			- using tools
+			  collapsed:: true
 				- my recommendation: [Zotero](https://www.zotero.org/)
 				- other tools
+				  collapsed:: true
 					- [Citavi](https://citavi.com/)
 					- [EndNote](https://endnote.com/)
 					- [Mendeley](https://www.mendeley.com/)
 	- structure
+	  id:: 666b6a4e-af97-4e4b-8815-9f550ae55b06
 	  collapsed:: true
 		- Introduction
 		  collapsed:: true
@@ -253,82 +268,60 @@
 			  collapsed:: true
 - corpuslinguistic topics and research questions
 	- theoretical frameworks
-	  collapsed:: true
 		- [[usage-based approach]]
-		  collapsed:: true
 			- ((64b64be4-4051-4d23-9ab2-09df197976f2))
 		- [[S-curve model]]
-		  collapsed:: true
 			- {{embed ((6447af61-6674-4374-9bab-a132f1af0f01))}}
 		- [[EC-Model]]
-		  collapsed:: true
 			- {{embed ((64b64be5-125d-4878-bff7-43b9cf505a92))}}
 		- [corpus-as-input and corpus-as-output]([[frequency]] as an indicator for [[entrenchment]] and [conventionality]([[conventionalization]]) ([[Stefanowitsch2017Corpusbased]]))
-		  collapsed:: true
 			- [[frequency]] as an indicator for [[entrenchment]] and [conventionality]([[conventionalization]]) ([[Stefanowitsch2017Corpusbased]])
 		- register and [[text type/variation]]
-		  collapsed:: true
 			- ((6488482e-0fd9-49cd-b1b4-56aadf272178))
+			  id:: 661fc638-15e4-4217-834f-38e23add6b49
 		- [[distributional hypothesis]]
-		  collapsed:: true
 			- ((645a20e9-f7b0-478b-bd31-d1fa07fdd451))
 	- research topics and questions
-	  collapsed:: true
 		- broad research foci
-		  collapsed:: true
 			- [[linguistic variation]]
-			  collapsed:: true
 				- overview
-				  collapsed:: true
 					- ((64b64be4-a025-4059-8481-82fb9c41f002))
 				- [[speaker variation]]
-				  collapsed:: true
 					- ((647f0734-ac35-4b68-bf52-0cc558e7b4cc))
 				- [[text type/variation]]
-				  collapsed:: true
 					- [[lexis]]: *blockchain*
-					  collapsed:: true
 						- ((64b64be4-92a2-45aa-a795-5c79e22375dd))
 					- modal verbs
-					  collapsed:: true
+					  id:: 661fc638-224d-44fc-8632-1a2d19e1a466
 						- ![image.png](../assets/image_1689070302563_0.png)
 				- [[geographical variation]]
-				  collapsed:: true
+				  id:: 661fc638-b213-4242-9a6e-2cac63f63f34
 					- frequency by country in the [[NOW corpus]]
 						- `fall_nn`
 							- ![image.png](../assets/image_1718316033126_0.png)
 						- `autumn_nn`
 							- ![image.png](../assets/image_1718316154635_0.png)
 			- [[language change]]
-			  collapsed:: true
 				- ![image.png](../assets/image_1718316357300_0.png)
+				  id:: 666b6d44-7960-4bba-b13f-287e547fab8f
 		- domains of language
 			- [[lexis]]
-			  collapsed:: true
 				- [[neologisms]]
-				  collapsed:: true
 					- ((64b64be4-1988-49fa-b124-e67e4ea3c00e))
 				- [[clippings]]
-				  collapsed:: true
 					- ![image.png](../assets/image_1718316488153_0.png)
 			- [[morphology and word-formation]]
-			  collapsed:: true
 				- {{embed ((64b64be4-310c-429c-bc18-9975c6721409))}}
 				- ((645a24aa-aa0c-4e46-87c3-3afc287b2a9a))
 			- [[syntax]]
-			  collapsed:: true
 				- `the N BE that` ([[Schmid2015Entrenchment]])
-				  collapsed:: true
 					- ((646c88e8-8923-4244-8457-d4791a56e7a0))
 					- ((64b64be5-52fd-4eb6-8a40-85d03b955b62))
 				- modal verbs
-				  collapsed:: true
 					- ![image.png](../assets/image_1689070302563_0.png)
 			- [[semantics]]
-			  collapsed:: true
 				- ((64b64be4-745d-488a-8e25-9f1f88b74ae1))
 	- data and corpora
-	  collapsed:: true
 		- [[Sketch Engine]]
 			- [[Gutenberg English 2020]]
 			- [[EEBO]]
@@ -339,11 +332,9 @@
 			- [[COCA]]
 			- [[NOW]]
 	- methods
-	  collapsed:: true
 		- [[frequency]]
 		- [[collocations]]
 		- [[word sketches]]
 	- further examples and case studies: see [[Stefanowitsch2020Corpus]]
 	- further reading
-	  collapsed:: true
 		- {{embed ((64b64be4-0efc-441d-aec2-f093845df874))}}

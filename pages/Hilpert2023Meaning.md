@@ -62,7 +62,6 @@ tags:: [[paper]]
 		  > “In this paper, we use corpus data from the COCA (Davies 2008) to compare clippings and their source words, as for example cardio and cardiovascular, in terms of their distributional behavior. We present evidence in order to suggest that there are tangible differences between clippings and their source words, and that despite a fair amount of semantic overlap, it is reasonable to maintain that once a clipping has established itself in language use, speakers will treat it as a separate lexical element.” (Hilpert et al., 2023, p. 22)
 - [[text type]] features
   id:: 645a2a9e-c7a6-4959-801f-dea28d63998f
-  collapsed:: true
 	- ![image.png](../assets/image_1683630755727_0.png)
 	  id:: 646c7ffd-a38c-4a5b-8f4f-174115b0de8d
 	  p. 25
