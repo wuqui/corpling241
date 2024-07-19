@@ -6,11 +6,11 @@
 	  collapsed:: true
 		- {{embed ((661fc639-7261-4ae1-bdcb-379819743a7d))}}
 	- term papers
+	  collapsed:: true
 		- consulting
 		  collapsed:: true
 			- {{embed ((661fc638-7b25-4276-9ece-6b15824d186b))}}
 		- structure
-		  collapsed:: true
 			- {{embed ((666b6a4e-af97-4e4b-8815-9f550ae55b06))}}
 - review
 	- course description

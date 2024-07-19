@@ -11,7 +11,6 @@
 - [[term paper consulting]]
   id:: 661fc638-7b25-4276-9ece-6b15824d186b
 	- dates
-	  collapsed:: true
 		- Tue, 30. July
 			- 10:00
 		- Thu, 1. August
@@ -22,14 +21,12 @@
 			- 10:00
 	- registration: beforehand via mail
 	- information required before: one day before the meeting via email
-	  collapsed:: true
 		- research questions and hypotheses
 		- data and method
 		- (abstract)
 		- table of contents
 		- bibliography
 	- Zoom meeting
-	  collapsed:: true
 		- https://lmu-munich.zoom.us/j/5385530182?pwd=SE5iZDJGQlZ1V3dpN2Q4NW45WjF5Zz09
 		- Meeting ID: 538 553 0182
 		- Passcode: 531379
@@ -202,7 +199,6 @@
 					- [Mendeley](https://www.mendeley.com/)
 	- structure
 	  id:: 666b6a4e-af97-4e4b-8815-9f550ae55b06
-	  collapsed:: true
 		- Introduction
 		  collapsed:: true
 			- This section should provide an overview of the topic, the context, and the relevance of the research. It should also include the research question or hypothesis, and a brief summary of what the paper will cover.
@@ -219,10 +215,8 @@
 		  collapsed:: true
 			- This section should present the findings of your analysis. It should be clear and concise, and use tables, graphs, or other visual aids where appropriate. The results should be presented in a way that directly addresses your research question or hypothesis.
 		- Discussion
-		  collapsed:: true
 			- This section should interpret the results in the context of your research question and the existing literature. It should discuss whether the results support your hypothesis, and what implications they have for the field of linguistics. This section may also identify any limitations of your study, and suggest areas for future research.
 		- Conclusion
-		  collapsed:: true
 			- This section should provide a summary of your research, the main findings, and the implications of these findings. It should also restate the relevance of your research and provide a final thought or reflection on the study.
 	- style and readability
 	  collapsed:: true

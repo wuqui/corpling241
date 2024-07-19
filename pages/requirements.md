@@ -26,3 +26,4 @@
 		  | MA        | WP 32.1    | 9    | term paper   | 30,000   |   37,500 |
 		  | MA        | WP 33.1    | 6    | thesis paper | 3,000    |    6,000 |
 		  | MA        | WP Ang 3.1 | 9    | term paper   | 30,000   |   37,500 |
+		- including spaces
