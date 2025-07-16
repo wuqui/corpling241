@@ -4,9 +4,13 @@ subtitle: "Seminar 'Corpus Linguistics'"
 author: "Quirin Würschinger, LMU Munich"
 date: 2025-07-17
 format:
-  clean-revealjs:
+  revealjs:
+    theme: clean
     slide-number: true
     slide-level: 2
+    extensions:
+      - pointer
+      - excalidraw
 css: custom.css
 bibliography: references.bib
 ---
